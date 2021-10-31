@@ -1,0 +1,47 @@
+2020-10-24 12:45:47,120 	 [INFO | data_reader.py:8] > importing data from day.csv
+2020-10-24 12:45:47,282 	 [DEBUG | data_reader.py:10] > file import success
+2020-10-24 13:00:26,224 	 [INFO | eda_univariate.py:15] > Univariate analysis for columns: temp
+2020-10-24 13:01:22,123 	 [INFO | eda_univariate.py:15] > Univariate analysis for columns: temp
+2020-10-24 13:01:22,687 	 [INFO | eda_univariate.py:15] > Univariate analysis for columns: atemp
+2020-10-24 13:01:23,171 	 [INFO | eda_univariate.py:15] > Univariate analysis for columns: hum
+2020-10-24 13:01:23,732 	 [INFO | eda_univariate.py:15] > Univariate analysis for columns: windspeed
+2020-10-24 13:01:24,332 	 [INFO | eda_univariate.py:15] > Univariate analysis for columns: cnt
+2020-10-24 13:01:24,953 	 [INFO | eda_univariate.py:15] > Univariate analysis for columns: weathersit
+2020-10-24 13:01:25,535 	 [INFO | eda_univariate.py:21] > univariate categorical plots
+2020-10-24 13:01:25,543 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: dteday
+2020-10-24 13:03:10,333 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: season
+2020-10-24 13:03:15,765 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: yr
+2020-10-24 13:03:20,677 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: mnth
+2020-10-24 13:03:45,442 	 [INFO | data_reader.py:8] > importing data from day.csv
+2020-10-24 13:03:45,464 	 [DEBUG | data_reader.py:10] > file import success
+2020-10-24 13:03:46,294 	 [INFO | eda_univariate.py:15] > Univariate analysis for columns: temp
+2020-10-24 13:03:47,112 	 [INFO | eda_univariate.py:15] > Univariate analysis for columns: atemp
+2020-10-24 13:03:47,843 	 [INFO | eda_univariate.py:15] > Univariate analysis for columns: hum
+2020-10-24 13:03:48,525 	 [INFO | eda_univariate.py:15] > Univariate analysis for columns: windspeed
+2020-10-24 13:03:49,333 	 [INFO | eda_univariate.py:15] > Univariate analysis for columns: cnt
+2020-10-24 13:03:50,118 	 [INFO | eda_univariate.py:15] > Univariate analysis for columns: weathersit
+2020-10-24 13:03:50,826 	 [INFO | eda_univariate.py:21] > univariate categorical plots
+2020-10-24 13:03:50,838 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: dteday
+2020-10-24 13:04:17,414 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: season
+2020-10-24 13:04:19,431 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: yr
+2020-10-24 13:04:21,674 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: mnth
+2020-10-24 13:04:23,914 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: holiday
+2020-10-24 13:04:26,049 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: weekday
+2020-10-24 13:04:28,670 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: workingday
+2020-10-24 13:04:30,962 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: casual
+2020-10-24 13:04:51,501 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: registered
+2020-10-24 13:11:20,037 	 [INFO | eda_bivariate.py:19] > Bivariate categorical plots
+2020-10-24 13:11:20,046 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: temp and cat column dteday
+2020-10-24 13:14:22,550 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: temp and cat column season
+2020-10-24 13:14:37,061 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: temp and cat column yr
+2020-10-24 13:14:58,623 	 [INFO | eda_bivariate.py:19] > Bivariate categorical plots
+2020-10-24 13:14:58,642 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: temp and cat column dteday
+2020-10-24 13:16:41,219 	 [INFO | eda_bivariate.py:19] > Bivariate categorical plots
+2020-10-24 13:16:41,233 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: cnt and cat column dteday
+2020-10-24 13:18:18,454 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: cnt and cat column season
+2020-10-24 13:18:23,247 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: cnt and cat column yr
+2020-10-24 13:18:27,678 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: cnt and cat column mnth
+2020-10-24 13:18:33,803 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: cnt and cat column holiday
+2020-10-24 13:18:38,566 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: cnt and cat column weekday
+2020-10-24 13:18:43,922 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: cnt and cat column workingday
+2020-10-24 13:18:48,463 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: cnt and cat column casual

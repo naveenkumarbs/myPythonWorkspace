@@ -1,0 +1,46 @@
+2020-10-05 10:16:11,149 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-05 10:16:11,352 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-05 10:18:22,292 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-05 10:18:22,481 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-05 10:20:22,339 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-05 10:20:22,525 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-05 10:20:28,715 	 [INFO | data_prepare.py:16] > dummy vars creation for cols: 
+2020-10-05 10:20:28,719 	 [INFO | data_prepare.py:17] > ['Contract', 'PaymentMethod', 'gender', 'InternetService']
+2020-10-05 10:20:28,807 	 [INFO | data_prepare.py:16] > dummy vars creation for cols: 
+2020-10-05 10:20:28,810 	 [INFO | data_prepare.py:17] > ['MultipleLines', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies']
+2020-10-05 10:22:29,582 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-05 10:22:29,775 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-05 10:22:30,343 	 [INFO | data_prepare.py:16] > dummy vars creation for cols: 
+2020-10-05 10:22:30,345 	 [INFO | data_prepare.py:17] > ['Contract', 'PaymentMethod', 'gender', 'InternetService']
+2020-10-05 10:22:30,486 	 [INFO | data_prepare.py:16] > dummy vars creation for cols: 
+2020-10-05 10:22:30,488 	 [INFO | data_prepare.py:17] > ['MultipleLines', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies']
+2020-10-05 10:23:07,969 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-05 10:23:08,154 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-05 10:23:08,753 	 [INFO | data_prepare.py:16] > dummy vars creation for cols: 
+2020-10-05 10:23:08,756 	 [INFO | data_prepare.py:17] > ['Contract', 'PaymentMethod', 'gender', 'InternetService']
+2020-10-05 10:23:08,893 	 [INFO | data_prepare.py:16] > dummy vars creation for cols: 
+2020-10-05 10:23:08,895 	 [INFO | data_prepare.py:17] > ['MultipleLines', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies']
+2020-10-05 10:26:34,007 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-05 10:26:34,200 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-05 10:26:34,744 	 [INFO | data_prepare.py:16] > dummy vars creation for cols: 
+2020-10-05 10:26:34,748 	 [INFO | data_prepare.py:17] > ['Contract', 'PaymentMethod', 'gender', 'InternetService']
+2020-10-05 10:26:34,904 	 [INFO | data_prepare.py:16] > dummy vars creation for cols: 
+2020-10-05 10:26:34,906 	 [INFO | data_prepare.py:17] > ['MultipleLines', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies']
+2020-10-05 10:27:02,063 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-05 10:27:02,255 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-05 10:27:02,816 	 [INFO | data_prepare.py:16] > dummy vars creation for cols: 
+2020-10-05 10:27:02,820 	 [INFO | data_prepare.py:17] > ['Contract', 'PaymentMethod', 'gender', 'InternetService']
+2020-10-05 10:27:02,973 	 [INFO | data_prepare.py:16] > dummy vars creation for cols: 
+2020-10-05 10:27:02,975 	 [INFO | data_prepare.py:17] > ['MultipleLines', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies']
+2020-10-05 10:28:15,017 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-05 10:28:15,213 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-05 10:28:15,772 	 [INFO | data_prepare.py:16] > dummy vars creation for cols: 
+2020-10-05 10:28:15,777 	 [INFO | data_prepare.py:17] > ['Contract', 'PaymentMethod', 'gender', 'InternetService']
+2020-10-05 10:28:15,929 	 [INFO | data_prepare.py:16] > dummy vars creation for cols: 
+2020-10-05 10:28:15,931 	 [INFO | data_prepare.py:17] > ['MultipleLines', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies']
+2020-10-05 11:01:02,814 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-05 11:01:03,005 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-05 11:01:03,554 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-05 11:01:03,558 	 [INFO | data_prepare.py:18] > ['Contract', 'PaymentMethod', 'gender', 'InternetService']
+2020-10-05 11:01:03,705 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-05 11:01:03,708 	 [INFO | data_prepare.py:18] > ['MultipleLines', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies']

@@ -1,0 +1,14 @@
+2020-10-24 16:14:32,105 	 [INFO | data_read.py:7] > Reading raw data
+2020-10-24 16:14:32,187 	 [INFO | data_read.py:11] > Reading raw data completed successfully
+2020-10-24 16:19:39,302 	 [INFO | data_read.py:7] > Reading raw data
+2020-10-24 16:19:39,366 	 [INFO | data_read.py:11] > Reading raw data completed successfully
+2020-10-24 16:20:46,119 	 [INFO | data_read.py:7] > Reading raw data
+2020-10-24 16:20:46,202 	 [INFO | data_read.py:11] > Reading raw data completed successfully
+2020-10-24 17:00:00,366 	 [INFO | data_read.py:7] > Reading raw data
+2020-10-24 17:00:00,445 	 [INFO | data_read.py:11] > Reading raw data completed successfully
+2020-10-24 18:10:32,549 	 [INFO | data_read.py:7] > Reading raw data
+2020-10-24 18:10:32,625 	 [INFO | data_read.py:11] > Reading raw data completed successfully
+2020-10-24 18:39:08,220 	 [INFO | data_read.py:7] > Reading raw data
+2020-10-24 18:39:08,308 	 [INFO | data_read.py:11] > Reading raw data completed successfully
+2020-10-24 22:51:48,720 	 [INFO | data_read.py:7] > Reading raw data
+2020-10-24 22:51:48,803 	 [INFO | data_read.py:11] > Reading raw data completed successfully

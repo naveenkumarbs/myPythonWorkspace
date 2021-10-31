@@ -1,0 +1,21 @@
+Hyperparameter Tuning
+First let's make a list the hyper-parameters we want to tune:
+
+Learning Rate & Variation + Optimisers
+Augmentation Techniques
+The basic idea is to track the validation loss with increasing epochs for various values of a hyperparameter.
+
+Keras Callbacks
+Before you move ahead, let's discuss a bit about callbacks. Callbacks are basically actions that you want to perform at specific instances of training. For example, we want to perform the action of storing the loss at the end of every epoch (the instance here is the end of an epoch).
+
+Formally, a callback is simply a function (if you want to perform a single action), or a list of functions (if you want to perform multiple actions), which are to be executed at specific events (end of an epoch, start of every batch, when the accuracy plateaus out, etc.). Keras provides some very useful callback functionalities through the class keras.callbacks.Callback.
+
+Keras has many builtin callbacks (listed here). 
+
+In the code, we have created a custom callback to append the loss to a list at the end of every epoch. Note that logs is an attribute (a dictionary) of keras.callbacks.Callback, and we are using it to get the value of the key 'loss'. Some other keys of this dict are acc, val_loss etc.
+
+To tell the model that we want to use a callback, we create an object of LossHistory called history and pass it to model.fit_generator using callbacks=[history]. In this case, we only have one callback history, though you can pass multiple callback objects through this list (an example of multiple callbacks is in the section below - see the code block of DecayLR()).
+
+We highly recommend you to read the documentation of keras callbacks here. For a gentler introduction to callbacks, you can read this nice blog post by Jason Brownlee.
+
+We use another custom callback (DecayLR) to decay the learning rate at the end of every epoch. The decay rate is specified as 0.5 ^ epoch. Also, note that this time we are telling the model to use two callbacks (passed as a list callbacks=[history, decay] to model.fit_generator).

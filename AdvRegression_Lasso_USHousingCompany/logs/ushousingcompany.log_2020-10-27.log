@@ -1,0 +1,24 @@
+2020-10-27 07:48:56,617 	 [INFO | data_read.py:7] > Reading raw data
+2020-10-27 07:48:56,714 	 [INFO | data_read.py:11] > Reading raw data completed successfully
+2020-10-27 13:07:22,664 	 [INFO | data_read.py:7] > Reading raw data
+2020-10-27 13:07:22,743 	 [INFO | data_read.py:11] > Reading raw data completed successfully
+2020-10-27 22:37:12,174 	 [INFO | model_serializer.py:11] > model serializer started
+2020-10-27 22:37:12,196 	 [INFO | model_serializer.py:15] > model serializer completed successfully
+2020-10-27 22:37:55,137 	 [INFO | model_serializer.py:11] > model serializer started
+2020-10-27 22:37:55,150 	 [INFO | model_serializer.py:15] > model serializer completed successfully
+2020-10-27 22:38:14,944 	 [INFO | model_serializer.py:11] > model serializer started
+2020-10-27 22:38:14,950 	 [INFO | model_serializer.py:15] > model serializer completed successfully
+2020-10-27 22:42:11,651 	 [INFO | data_read.py:7] > Reading raw data
+2020-10-27 22:42:11,757 	 [INFO | data_read.py:11] > Reading raw data completed successfully
+2020-10-27 22:47:49,455 	 [INFO | model_serializer.py:11] > model serializer started
+2020-10-27 22:47:49,460 	 [INFO | model_serializer.py:15] > model serializer completed successfully
+2020-10-27 22:47:56,304 	 [INFO | model_serializer.py:20] > model deserializer started
+2020-10-27 22:47:56,314 	 [INFO | model_serializer.py:24] > model deserializer completed successfully
+2020-10-27 23:08:54,424 	 [INFO | model_serializer.py:20] > model deserializer started
+2020-10-27 23:08:54,429 	 [INFO | model_serializer.py:24] > model deserializer completed successfully
+2020-10-27 23:25:24,312 	 [INFO | data_read.py:7] > Reading raw data
+2020-10-27 23:25:24,455 	 [INFO | data_read.py:11] > Reading raw data completed successfully
+2020-10-27 23:29:10,784 	 [INFO | model_serializer.py:11] > model serializer started
+2020-10-27 23:29:10,796 	 [INFO | model_serializer.py:15] > model serializer completed successfully
+2020-10-27 23:29:10,813 	 [INFO | model_serializer.py:20] > model deserializer started
+2020-10-27 23:29:10,820 	 [INFO | model_serializer.py:24] > model deserializer completed successfully

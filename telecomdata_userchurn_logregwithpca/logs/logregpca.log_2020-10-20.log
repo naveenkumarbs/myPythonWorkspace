@@ -1,0 +1,173 @@
+2020-10-20 08:39:11,908 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-20 08:39:12,104 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-20 08:39:24,440 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-20 08:39:24,443 	 [INFO | data_prepare.py:18] > ['Contract', 'PaymentMethod', 'gender', 'InternetService']
+2020-10-20 08:39:24,571 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-20 08:39:24,573 	 [INFO | data_prepare.py:18] > ['MultipleLines', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies']
+2020-10-20 08:39:47,131 	 [INFO | model_trainTestSplit.py:20] > Train Test Split Success
+2020-10-20 08:52:54,878 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-20 08:52:55,347 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-20 08:53:09,973 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-20 08:53:09,975 	 [INFO | data_prepare.py:18] > ['Contract', 'PaymentMethod', 'gender', 'InternetService']
+2020-10-20 08:53:10,132 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-20 08:53:10,134 	 [INFO | data_prepare.py:18] > ['MultipleLines', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies']
+2020-10-20 08:53:29,866 	 [INFO | model_trainTestSplit.py:20] > Train Test Split Success
+2020-10-20 08:56:14,303 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-20 08:56:14,519 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-20 08:56:32,663 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-20 08:56:32,665 	 [INFO | data_prepare.py:18] > ['Contract', 'PaymentMethod', 'gender', 'InternetService']
+2020-10-20 08:56:32,805 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-20 08:56:32,808 	 [INFO | data_prepare.py:18] > ['MultipleLines', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies']
+2020-10-20 08:56:34,042 	 [INFO | model_trainTestSplit.py:20] > Train Test Split Success
+2020-10-20 09:00:01,159 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-20 09:00:01,379 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-20 09:00:17,432 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-20 09:00:17,436 	 [INFO | data_prepare.py:18] > ['Contract', 'PaymentMethod', 'gender', 'InternetService']
+2020-10-20 09:00:17,577 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-20 09:00:17,579 	 [INFO | data_prepare.py:18] > ['MultipleLines', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies']
+2020-10-20 09:00:18,885 	 [INFO | model_trainTestSplit.py:20] > Train Test Split Success
+2020-10-20 09:02:56,671 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-20 09:02:56,871 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-20 09:03:34,099 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-20 09:03:34,102 	 [INFO | data_prepare.py:18] > ['Contract', 'PaymentMethod', 'gender', 'InternetService']
+2020-10-20 09:03:34,241 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-20 09:03:34,243 	 [INFO | data_prepare.py:18] > ['MultipleLines', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies']
+2020-10-20 09:03:35,472 	 [INFO | model_trainTestSplit.py:20] > Train Test Split Success
+2020-10-20 09:28:17,895 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-20 09:28:18,087 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-20 09:28:26,582 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-20 09:28:26,584 	 [INFO | data_prepare.py:18] > ['Contract', 'PaymentMethod', 'gender', 'InternetService']
+2020-10-20 09:28:26,715 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-20 09:28:26,717 	 [INFO | data_prepare.py:18] > ['MultipleLines', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies']
+2020-10-20 09:29:04,846 	 [INFO | model_trainTestSplit.py:20] > Train Test Split Success
+2020-10-20 09:50:22,451 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-20 09:50:22,632 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-20 09:50:33,387 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-20 09:50:33,391 	 [INFO | data_prepare.py:18] > ['Contract', 'PaymentMethod', 'gender', 'InternetService']
+2020-10-20 09:50:33,520 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-20 09:50:33,522 	 [INFO | data_prepare.py:18] > ['MultipleLines', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies']
+2020-10-20 09:50:34,290 	 [INFO | model_trainTestSplit.py:20] > Train Test Split Success
+2020-10-20 10:15:05,842 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-20 10:15:06,038 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-20 10:15:15,484 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-20 10:15:15,486 	 [INFO | data_prepare.py:18] > ['Contract', 'PaymentMethod', 'gender', 'InternetService']
+2020-10-20 10:15:15,614 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-20 10:15:15,616 	 [INFO | data_prepare.py:18] > ['MultipleLines', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies']
+2020-10-20 10:15:16,893 	 [INFO | model_trainTestSplit.py:20] > Train Test Split Success
+2020-10-20 11:21:34,992 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-20 11:21:35,188 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-20 11:21:44,809 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-20 11:21:44,812 	 [INFO | data_prepare.py:18] > ['Contract', 'PaymentMethod', 'gender', 'InternetService']
+2020-10-20 11:21:44,948 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-20 11:21:44,950 	 [INFO | data_prepare.py:18] > ['MultipleLines', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies']
+2020-10-20 11:21:46,092 	 [INFO | model_trainTestSplit.py:20] > Train Test Split Success
+2020-10-20 11:22:11,360 	 [INFO | model_serializer.py:21] > model serializer started
+2020-10-20 11:22:11,388 	 [INFO | model_serializer.py:25] > model serializer completed successfully
+2020-10-20 11:22:11,471 	 [INFO | model_serializer.py:40] > model deserializer started
+2020-10-20 11:25:05,099 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-20 11:25:05,309 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-20 11:25:14,178 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-20 11:25:14,181 	 [INFO | data_prepare.py:18] > ['Contract', 'PaymentMethod', 'gender', 'InternetService']
+2020-10-20 11:25:14,325 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-20 11:25:14,327 	 [INFO | data_prepare.py:18] > ['MultipleLines', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies']
+2020-10-20 11:25:15,540 	 [INFO | model_trainTestSplit.py:20] > Train Test Split Success
+2020-10-20 11:25:39,839 	 [INFO | model_serializer.py:21] > model serializer started
+2020-10-20 11:25:39,845 	 [INFO | model_serializer.py:25] > model serializer completed successfully
+2020-10-20 11:25:39,939 	 [INFO | model_serializer.py:40] > model deserializer started
+2020-10-20 11:25:39,954 	 [INFO | model_serializer.py:44] > model deserializer completed successfully
+2020-10-20 11:25:47,219 	 [INFO | model_serializer.py:12] > model serializer started
+2020-10-20 11:25:47,234 	 [INFO | model_serializer.py:16] > model serializer completed successfully
+2020-10-20 11:25:47,340 	 [INFO | model_serializer.py:30] > model deserializer started
+2020-10-20 11:25:47,349 	 [INFO | model_serializer.py:34] > model deserializer completed successfully
+2020-10-20 11:26:23,332 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-20 11:26:23,516 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-20 11:26:24,674 	 [INFO | eda_univariate.py:15] > Univariate analysis for columns: tenure
+2020-10-20 11:26:25,520 	 [INFO | eda_univariate.py:15] > Univariate analysis for columns: MonthlyCharges
+2020-10-20 11:26:26,246 	 [INFO | eda_univariate.py:15] > Univariate analysis for columns: TotalCharges
+2020-10-20 11:26:27,068 	 [INFO | eda_univariate.py:21] > univariate categorical plots
+2020-10-20 11:26:27,078 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: PhoneService
+2020-10-20 11:26:27,477 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: Contract
+2020-10-20 11:26:27,827 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: PaperlessBilling
+2020-10-20 11:26:28,126 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: PaymentMethod
+2020-10-20 11:26:28,494 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: Churn
+2020-10-20 11:26:28,809 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: gender
+2020-10-20 11:26:29,132 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: SeniorCitizen
+2020-10-20 11:26:29,472 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: Partner
+2020-10-20 11:26:29,804 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: Dependents
+2020-10-20 11:26:30,138 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: MultipleLines
+2020-10-20 11:26:30,516 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: InternetService
+2020-10-20 11:26:30,883 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: OnlineSecurity
+2020-10-20 11:26:31,265 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: OnlineBackup
+2020-10-20 11:26:31,635 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: DeviceProtection
+2020-10-20 11:26:32,008 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: TechSupport
+2020-10-20 11:26:32,384 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: StreamingTV
+2020-10-20 11:26:32,771 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: StreamingMovies
+2020-10-20 11:26:34,162 	 [INFO | eda_bivariate.py:19] > Bivariate categorical plots
+2020-10-20 11:26:34,171 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column PhoneService
+2020-10-20 11:26:34,865 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column Contract
+2020-10-20 11:26:35,737 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column PaperlessBilling
+2020-10-20 11:26:36,829 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column PaymentMethod
+2020-10-20 11:26:38,293 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column Churn
+2020-10-20 11:26:39,978 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column gender
+2020-10-20 11:26:41,914 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column SeniorCitizen
+2020-10-20 11:26:44,136 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column Partner
+2020-10-20 11:26:46,662 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column Dependents
+2020-10-20 11:26:49,440 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column MultipleLines
+2020-10-20 11:26:52,561 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column InternetService
+2020-10-20 11:26:56,035 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column OnlineSecurity
+2020-10-20 11:26:59,698 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column OnlineBackup
+2020-10-20 11:27:03,626 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column DeviceProtection
+2020-10-20 11:27:07,916 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column TechSupport
+2020-10-20 11:27:12,472 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column StreamingTV
+2020-10-20 11:27:17,335 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column StreamingMovies
+2020-10-20 11:27:22,387 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column PhoneService
+2020-10-20 11:27:27,658 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column Contract
+2020-10-20 11:27:33,319 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column PaperlessBilling
+2020-10-20 11:27:39,106 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column PaymentMethod
+2020-10-20 11:27:45,427 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column Churn
+2020-10-20 11:27:51,730 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column gender
+2020-10-20 11:27:58,360 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column SeniorCitizen
+2020-10-20 11:28:05,240 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column Partner
+2020-10-20 11:28:12,527 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column Dependents
+2020-10-20 11:28:20,328 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column MultipleLines
+2020-10-20 11:28:28,378 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column InternetService
+2020-10-20 11:28:36,956 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column OnlineSecurity
+2020-10-20 11:28:45,768 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column OnlineBackup
+2020-10-20 11:28:54,808 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column DeviceProtection
+2020-10-20 11:29:04,015 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column TechSupport
+2020-10-20 11:29:13,377 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column StreamingTV
+2020-10-20 11:29:23,352 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column StreamingMovies
+2020-10-20 11:29:33,412 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column PhoneService
+2020-10-20 11:29:43,464 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column Contract
+2020-10-20 11:29:53,848 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column PaperlessBilling
+2020-10-20 11:30:04,235 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column PaymentMethod
+2020-10-20 11:30:15,320 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column Churn
+2020-10-20 11:30:26,355 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column gender
+2020-10-20 11:30:37,613 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column SeniorCitizen
+2020-10-20 11:30:49,049 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column Partner
+2020-10-20 11:31:00,829 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column Dependents
+2020-10-20 11:31:12,938 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column MultipleLines
+2020-10-20 11:31:25,657 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column InternetService
+2020-10-20 11:31:38,636 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column OnlineSecurity
+2020-10-20 11:31:51,933 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column OnlineBackup
+2020-10-20 11:32:05,481 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column DeviceProtection
+2020-10-20 11:32:19,291 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column TechSupport
+2020-10-20 11:32:33,320 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column StreamingTV
+2020-10-20 11:32:47,741 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column StreamingMovies
+2020-10-20 11:33:34,652 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-20 11:33:34,655 	 [INFO | data_prepare.py:18] > ['Contract', 'PaymentMethod', 'gender', 'InternetService']
+2020-10-20 11:33:34,792 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-20 11:33:34,794 	 [INFO | data_prepare.py:18] > ['MultipleLines', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies']
+2020-10-20 11:33:36,047 	 [INFO | model_trainTestSplit.py:20] > Train Test Split Success
+2020-10-20 11:33:59,956 	 [INFO | model_serializer.py:21] > model serializer started
+2020-10-20 11:33:59,960 	 [INFO | model_serializer.py:25] > model serializer completed successfully
+2020-10-20 11:34:00,055 	 [INFO | model_serializer.py:40] > model deserializer started
+2020-10-20 11:34:00,058 	 [INFO | model_serializer.py:44] > model deserializer completed successfully
+2020-10-20 11:34:06,956 	 [INFO | model_serializer.py:12] > model serializer started
+2020-10-20 11:34:06,962 	 [INFO | model_serializer.py:16] > model serializer completed successfully
+2020-10-20 11:34:07,055 	 [INFO | model_serializer.py:30] > model deserializer started
+2020-10-20 11:34:07,060 	 [INFO | model_serializer.py:34] > model deserializer completed successfully
+2020-10-20 20:27:25,233 	 [INFO | model_serializer.py:12] > model serializer started
+2020-10-20 20:27:25,239 	 [INFO | model_serializer.py:16] > model serializer completed successfully
+2020-10-20 20:27:26,997 	 [INFO | model_serializer.py:30] > model deserializer started
+2020-10-20 20:27:27,001 	 [INFO | model_serializer.py:34] > model deserializer completed successfully

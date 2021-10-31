@@ -1,0 +1,6 @@
+Augmentation Techniques
+Let's implemented some code to implement data augmentation. Augmentation is usually done with data generators, i.e. the augmented data is generated batch-wise, on the fly.
+
+You can either use the built-in keras ImageDataGenerator or write your own data generator (for some custom features etc if you want). 
+
+If you want to implement your own customized data generator (with augmentation), you can add the augmentation step easily to the DataGenerator class created which is what we did in the code. The only change is that we stack the augmented images to the X, y arrays 

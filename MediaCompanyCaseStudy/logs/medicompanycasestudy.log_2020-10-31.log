@@ -1,0 +1,26 @@
+2020-10-31 20:05:25,856 	 [INFO | read_data.py:7] > Reading raw data
+2020-10-31 20:05:25,873 	 [INFO | read_data.py:11] > Reading raw data completed successfully
+2020-10-31 20:18:22,708 	 [INFO | read_data.py:8] > Reading raw data
+2020-10-31 20:18:22,731 	 [INFO | read_data.py:12] > Reading raw data completed successfully
+2020-10-31 20:38:03,526 	 [INFO | read_data.py:8] > Reading raw data
+2020-10-31 20:38:03,548 	 [INFO | read_data.py:12] > Reading raw data completed successfully
+2020-10-31 20:42:27,240 	 [INFO | read_data.py:8] > Reading raw data
+2020-10-31 20:42:27,257 	 [INFO | read_data.py:12] > Reading raw data completed successfully
+2020-10-31 20:46:48,577 	 [INFO | read_data.py:8] > Reading raw data
+2020-10-31 20:46:48,603 	 [INFO | read_data.py:12] > Reading raw data completed successfully
+2020-10-31 20:50:51,028 	 [INFO | read_data.py:8] > Reading raw data
+2020-10-31 20:50:51,046 	 [INFO | read_data.py:12] > Reading raw data completed successfully
+2020-10-31 21:07:49,225 	 [INFO | read_data.py:8] > Reading raw data
+2020-10-31 21:07:49,253 	 [INFO | read_data.py:12] > Reading raw data completed successfully
+2020-10-31 21:51:38,561 	 [INFO | read_data.py:8] > Reading raw data
+2020-10-31 21:51:38,578 	 [INFO | read_data.py:12] > Reading raw data completed successfully
+2020-10-31 22:27:48,603 	 [INFO | read_data.py:8] > Reading raw data
+2020-10-31 22:27:48,621 	 [INFO | read_data.py:12] > Reading raw data completed successfully
+2020-10-31 22:44:14,517 	 [INFO | read_data.py:8] > Reading raw data
+2020-10-31 22:44:14,532 	 [INFO | read_data.py:12] > Reading raw data completed successfully
+2020-10-31 23:11:57,548 	 [INFO | read_data.py:8] > Reading raw data
+2020-10-31 23:11:57,567 	 [INFO | read_data.py:12] > Reading raw data completed successfully
+2020-10-31 23:12:02,139 	 [INFO | model_serializer.py:15] > model serializer started
+2020-10-31 23:12:02,158 	 [INFO | model_serializer.py:28] > model serializer completed successfully
+2020-10-31 23:12:02,174 	 [INFO | model_serializer.py:33] > model deserializer started
+2020-10-31 23:12:02,205 	 [INFO | model_serializer.py:46] > model deserializer completed successfully

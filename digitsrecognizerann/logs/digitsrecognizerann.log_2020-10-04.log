@@ -1,0 +1,16 @@
+2020-10-04 18:37:24,598 	 [INFO | data_reader.py:9] > importing data from /home/naveenkumar/Desktop/CSEProjects/RefactoredProjects/digitsrecognizerann/data/external/mnist.pkl.gz
+2020-10-04 18:37:27,167 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-04 18:37:27,540 	 [INFO | encoders.py:29] > creating data wrapper to convert the dataset into desired shape
+2020-10-04 18:37:27,800 	 [INFO | encoders.py:14] > creating one hot encoding for target param
+2020-10-04 18:37:27,903 	 [INFO | encoders.py:14] > creating one hot encoding for target param
+2020-10-04 18:37:27,972 	 [INFO | encoders.py:14] > creating one hot encoding for target param
+2020-10-04 18:37:28,329 	 [INFO | image_decoder.py:6] > Decoding image from given array started
+2020-10-04 18:37:28,332 	 [INFO | image_decoder.py:8] > Decoding image from given array completed successfully
+2020-10-04 18:37:29,185 	 [INFO | param_operations.py:10] > initializing random values to weights and biases started
+2020-10-04 18:37:29,196 	 [INFO | param_operations.py:22] > initializing weights and biases completed successfully
+2020-10-04 18:45:55,459 	 [INFO | model_serializer.py:11] > model serializer started
+2020-10-04 18:45:55,466 	 [INFO | model_serializer.py:15] > model serializer completed successfully
+2020-10-04 18:45:55,582 	 [INFO | model_serializer.py:20] > model deserializer started
+2020-10-04 18:45:55,588 	 [INFO | model_serializer.py:24] > model deserializer completed successfully
+2020-10-04 18:45:56,165 	 [INFO | image_decoder.py:6] > Decoding image from given array started
+2020-10-04 18:45:56,176 	 [INFO | image_decoder.py:8] > Decoding image from given array completed successfully

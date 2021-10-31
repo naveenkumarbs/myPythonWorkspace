@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Ge, Yan
+AU  - Wu, Haixia
+PY  - 2020
+DA  - 2020/11/01
+TI  - Prediction of corn price fluctuation based on multiple linear regression analysis model under big data
+JO  - Neural Computing and Applications
+SP  - 16843
+EP  - 16855
+VL  - 32
+IS  - 22
+AB  - This paper mainly analyzes the changing trend of corn price and the factors that affect the price of corn. Using the data and regression analysis, the univariate nonlinear and multivariate linear regression models are established to predict the corn price, respectively. First, this paper establishes a univariate nonlinear regression model with time as the independent variable, and corn price is used as the dependent variable through the analysis of the trend of big data related to Chinese corn price from 2005 to 2016 by MATLAB, which is the computer-based analysis and processing method. The variation of the maize price with time was fitted. To a certain extent, the price trend of corn is predicted. However, the estimated price of corn in 2017 with this model will deviate from the actual value. According to the changes of related policies in our country, we analyzed the deviation of the original model, and the relationship between supply and demand is the main underlying factor that affects the price of corn. This paper selects maize-related big data from 2005 to 2016, we set its production consumption, import and export volume as independent variables, and we still use maize price as the dependent variable to establish a multiple linear regression model. At this stage, the time series analysis of the independent variable has obtained the forecast value of each independent variable in 2017, and then the model is used to predict the corn in 2017 more accurately.
+SN  - 1433-3058
+UR  - https://doi.org/10.1007/s00521-018-03970-4
+DO  - 10.1007/s00521-018-03970-4
+ID  - Ge2020
+ER  - 

@@ -1,0 +1,647 @@
+2020-10-19 07:38:14,916 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-19 07:38:15,133 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-19 19:08:29,846 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: tenure
+2020-10-19 19:08:30,348 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: MonthlyCharges
+2020-10-19 19:08:30,773 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: TotalCharges
+2020-10-19 19:09:03,905 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: tenure
+2020-10-19 19:09:04,395 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: MonthlyCharges
+2020-10-19 19:09:04,814 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: TotalCharges
+2020-10-19 19:09:18,419 	 [INFO | eda_univariate.py:19] > univariate categorical plots
+2020-10-19 19:09:18,427 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PhoneService
+2020-10-19 19:09:18,864 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Contract
+2020-10-19 19:09:19,031 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PaperlessBilling
+2020-10-19 19:09:19,191 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PaymentMethod
+2020-10-19 19:09:19,397 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Churn
+2020-10-19 19:09:19,575 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: gender
+2020-10-19 19:09:19,765 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: SeniorCitizen
+2020-10-19 19:09:19,942 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Partner
+2020-10-19 19:09:20,132 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Dependents
+2020-10-19 19:09:20,329 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: MultipleLines
+2020-10-19 19:09:20,536 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: InternetService
+2020-10-19 19:09:20,731 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: OnlineSecurity
+2020-10-19 19:09:20,925 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: OnlineBackup
+2020-10-19 19:09:21,135 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: DeviceProtection
+2020-10-19 19:09:21,367 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: TechSupport
+2020-10-19 19:09:21,615 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: StreamingTV
+2020-10-19 19:09:21,828 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: StreamingMovies
+2020-10-19 19:59:04,163 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-19 19:59:04,356 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-19 19:59:05,177 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: tenure
+2020-10-19 19:59:05,620 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: MonthlyCharges
+2020-10-19 19:59:05,955 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: TotalCharges
+2020-10-19 19:59:06,362 	 [INFO | eda_univariate.py:19] > univariate categorical plots
+2020-10-19 19:59:06,367 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PhoneService
+2020-10-19 19:59:06,579 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Contract
+2020-10-19 19:59:06,764 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PaperlessBilling
+2020-10-19 19:59:06,945 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PaymentMethod
+2020-10-19 19:59:07,152 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Churn
+2020-10-19 19:59:07,343 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: gender
+2020-10-19 19:59:07,536 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: SeniorCitizen
+2020-10-19 19:59:07,730 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Partner
+2020-10-19 19:59:07,921 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Dependents
+2020-10-19 19:59:08,113 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: MultipleLines
+2020-10-19 19:59:08,307 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: InternetService
+2020-10-19 19:59:08,512 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: OnlineSecurity
+2020-10-19 19:59:08,711 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: OnlineBackup
+2020-10-19 19:59:08,913 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: DeviceProtection
+2020-10-19 19:59:09,135 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: TechSupport
+2020-10-19 19:59:09,345 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: StreamingTV
+2020-10-19 19:59:09,569 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: StreamingMovies
+2020-10-19 20:00:17,532 	 [INFO | eda_bivariate.py:17] > univariate categorical plots
+2020-10-19 20:00:17,544 	 [INFO | eda_bivariate.py:20] > Bivariate analysis for columns: tenure
+2020-10-19 20:00:17,551 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for columns: OnlineBackup
+2020-10-19 20:01:21,992 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-19 20:01:22,186 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-19 20:01:23,014 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: tenure
+2020-10-19 20:01:23,397 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: MonthlyCharges
+2020-10-19 20:01:23,700 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: TotalCharges
+2020-10-19 20:01:24,035 	 [INFO | eda_univariate.py:19] > univariate categorical plots
+2020-10-19 20:01:24,041 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PhoneService
+2020-10-19 20:01:24,260 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Contract
+2020-10-19 20:01:24,443 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PaperlessBilling
+2020-10-19 20:01:24,621 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PaymentMethod
+2020-10-19 20:01:24,824 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Churn
+2020-10-19 20:01:25,044 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: gender
+2020-10-19 20:01:25,248 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: SeniorCitizen
+2020-10-19 20:01:25,466 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Partner
+2020-10-19 20:01:25,647 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Dependents
+2020-10-19 20:01:25,850 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: MultipleLines
+2020-10-19 20:01:26,071 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: InternetService
+2020-10-19 20:01:26,275 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: OnlineSecurity
+2020-10-19 20:01:26,525 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: OnlineBackup
+2020-10-19 20:01:26,761 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: DeviceProtection
+2020-10-19 20:01:26,977 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: TechSupport
+2020-10-19 20:01:27,216 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: StreamingTV
+2020-10-19 20:01:27,442 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: StreamingMovies
+2020-10-19 20:01:40,664 	 [INFO | eda_bivariate.py:17] > univariate categorical plots
+2020-10-19 20:01:40,670 	 [INFO | eda_bivariate.py:20] > Bivariate analysis for columns: tenure
+2020-10-19 20:01:40,681 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for columns: OnlineBackup
+2020-10-19 20:02:16,060 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-19 20:02:16,293 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-19 20:02:17,136 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: tenure
+2020-10-19 20:02:17,513 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: MonthlyCharges
+2020-10-19 20:02:17,842 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: TotalCharges
+2020-10-19 20:02:18,206 	 [INFO | eda_univariate.py:19] > univariate categorical plots
+2020-10-19 20:02:18,213 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PhoneService
+2020-10-19 20:02:18,511 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Contract
+2020-10-19 20:02:18,736 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PaperlessBilling
+2020-10-19 20:02:18,953 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PaymentMethod
+2020-10-19 20:02:19,183 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Churn
+2020-10-19 20:02:19,376 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: gender
+2020-10-19 20:02:19,574 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: SeniorCitizen
+2020-10-19 20:02:19,761 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Partner
+2020-10-19 20:02:19,950 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Dependents
+2020-10-19 20:02:20,145 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: MultipleLines
+2020-10-19 20:02:20,357 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: InternetService
+2020-10-19 20:02:20,572 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: OnlineSecurity
+2020-10-19 20:02:20,791 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: OnlineBackup
+2020-10-19 20:02:21,000 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: DeviceProtection
+2020-10-19 20:02:21,238 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: TechSupport
+2020-10-19 20:02:21,469 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: StreamingTV
+2020-10-19 20:02:21,716 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: StreamingMovies
+2020-10-19 20:02:32,764 	 [INFO | eda_bivariate.py:17] > univariate categorical plots
+2020-10-19 20:02:32,778 	 [INFO | eda_bivariate.py:20] > Bivariate analysis for columns: tenure
+2020-10-19 20:02:32,783 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for columns: OnlineBackup
+2020-10-19 20:04:24,703 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-19 20:04:24,902 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-19 20:04:25,762 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: tenure
+2020-10-19 20:04:26,157 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: MonthlyCharges
+2020-10-19 20:04:26,468 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: TotalCharges
+2020-10-19 20:04:26,827 	 [INFO | eda_univariate.py:19] > univariate categorical plots
+2020-10-19 20:04:26,836 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PhoneService
+2020-10-19 20:04:27,084 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Contract
+2020-10-19 20:04:27,312 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PaperlessBilling
+2020-10-19 20:04:27,502 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PaymentMethod
+2020-10-19 20:04:27,749 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Churn
+2020-10-19 20:04:27,960 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: gender
+2020-10-19 20:04:28,243 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: SeniorCitizen
+2020-10-19 20:04:28,473 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Partner
+2020-10-19 20:04:28,680 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Dependents
+2020-10-19 20:04:28,884 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: MultipleLines
+2020-10-19 20:04:29,098 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: InternetService
+2020-10-19 20:04:29,301 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: OnlineSecurity
+2020-10-19 20:04:29,511 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: OnlineBackup
+2020-10-19 20:04:29,754 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: DeviceProtection
+2020-10-19 20:04:29,984 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: TechSupport
+2020-10-19 20:04:30,230 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: StreamingTV
+2020-10-19 20:04:30,465 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: StreamingMovies
+2020-10-19 20:04:42,286 	 [INFO | eda_bivariate.py:17] > univariate categorical plots
+2020-10-19 20:04:42,291 	 [INFO | eda_bivariate.py:20] > Bivariate analysis for columns: tenure
+2020-10-19 20:04:42,293 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for columns: OnlineBackup
+2020-10-19 20:08:54,904 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-19 20:08:55,108 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-19 20:08:55,981 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: tenure
+2020-10-19 20:08:56,365 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: MonthlyCharges
+2020-10-19 20:08:56,660 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: TotalCharges
+2020-10-19 20:08:56,990 	 [INFO | eda_univariate.py:19] > univariate categorical plots
+2020-10-19 20:08:56,998 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PhoneService
+2020-10-19 20:08:57,231 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Contract
+2020-10-19 20:08:57,418 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PaperlessBilling
+2020-10-19 20:08:57,598 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PaymentMethod
+2020-10-19 20:08:57,813 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Churn
+2020-10-19 20:08:57,994 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: gender
+2020-10-19 20:08:58,201 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: SeniorCitizen
+2020-10-19 20:08:58,398 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Partner
+2020-10-19 20:08:58,591 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Dependents
+2020-10-19 20:08:58,822 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: MultipleLines
+2020-10-19 20:08:59,176 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: InternetService
+2020-10-19 20:08:59,503 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: OnlineSecurity
+2020-10-19 20:08:59,813 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: OnlineBackup
+2020-10-19 20:09:00,127 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: DeviceProtection
+2020-10-19 20:09:00,347 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: TechSupport
+2020-10-19 20:09:00,587 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: StreamingTV
+2020-10-19 20:09:00,830 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: StreamingMovies
+2020-10-19 20:09:07,918 	 [INFO | eda_bivariate.py:17] > Bivariate categorical plots
+2020-10-19 20:09:07,924 	 [INFO | eda_bivariate.py:20] > Bivariate analysis for columns: tenure
+2020-10-19 20:09:07,928 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for columns: OnlineBackup
+2020-10-19 20:10:48,367 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-19 20:10:48,560 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-19 20:10:49,420 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: tenure
+2020-10-19 20:10:49,803 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: MonthlyCharges
+2020-10-19 20:10:50,146 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: TotalCharges
+2020-10-19 20:10:50,496 	 [INFO | eda_univariate.py:19] > univariate categorical plots
+2020-10-19 20:10:50,503 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PhoneService
+2020-10-19 20:10:50,714 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Contract
+2020-10-19 20:10:50,907 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PaperlessBilling
+2020-10-19 20:10:51,096 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PaymentMethod
+2020-10-19 20:10:51,297 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Churn
+2020-10-19 20:10:51,481 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: gender
+2020-10-19 20:10:51,670 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: SeniorCitizen
+2020-10-19 20:10:51,902 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Partner
+2020-10-19 20:10:52,116 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Dependents
+2020-10-19 20:10:52,306 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: MultipleLines
+2020-10-19 20:10:52,517 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: InternetService
+2020-10-19 20:10:52,743 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: OnlineSecurity
+2020-10-19 20:10:52,963 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: OnlineBackup
+2020-10-19 20:10:53,183 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: DeviceProtection
+2020-10-19 20:10:53,401 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: TechSupport
+2020-10-19 20:10:53,614 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: StreamingTV
+2020-10-19 20:10:53,838 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: StreamingMovies
+2020-10-19 20:10:54,252 	 [INFO | eda_bivariate.py:17] > Bivariate categorical plots
+2020-10-19 20:10:54,266 	 [INFO | eda_bivariate.py:20] > Bivariate analysis for columns: tenure
+2020-10-19 20:10:54,270 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for columns: OnlineBackup
+2020-10-19 20:13:38,108 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-19 20:13:38,317 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-19 20:13:39,337 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: tenure
+2020-10-19 20:13:39,717 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: MonthlyCharges
+2020-10-19 20:13:40,085 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: TotalCharges
+2020-10-19 20:13:40,452 	 [INFO | eda_univariate.py:19] > univariate categorical plots
+2020-10-19 20:13:40,466 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PhoneService
+2020-10-19 20:13:40,718 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Contract
+2020-10-19 20:13:40,920 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PaperlessBilling
+2020-10-19 20:13:41,136 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PaymentMethod
+2020-10-19 20:13:41,372 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Churn
+2020-10-19 20:13:41,635 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: gender
+2020-10-19 20:13:41,852 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: SeniorCitizen
+2020-10-19 20:13:42,062 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Partner
+2020-10-19 20:13:42,280 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Dependents
+2020-10-19 20:13:42,500 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: MultipleLines
+2020-10-19 20:13:42,748 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: InternetService
+2020-10-19 20:13:42,967 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: OnlineSecurity
+2020-10-19 20:13:43,195 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: OnlineBackup
+2020-10-19 20:13:43,416 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: DeviceProtection
+2020-10-19 20:13:43,644 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: TechSupport
+2020-10-19 20:13:43,973 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: StreamingTV
+2020-10-19 20:13:44,218 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: StreamingMovies
+2020-10-19 20:13:44,612 	 [INFO | eda_bivariate.py:17] > Bivariate categorical plots
+2020-10-19 20:13:44,618 	 [INFO | eda_bivariate.py:20] > Bivariate analysis for columns: tenure
+2020-10-19 20:13:44,624 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for columns: PhoneService
+2020-10-19 20:14:38,819 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for columns: Contract
+2020-10-19 20:17:04,226 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for columns: PaperlessBilling
+2020-10-19 20:19:05,416 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-19 20:19:05,636 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-19 20:19:06,526 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: tenure
+2020-10-19 20:19:06,966 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: MonthlyCharges
+2020-10-19 20:19:07,301 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: TotalCharges
+2020-10-19 20:19:07,917 	 [INFO | eda_univariate.py:19] > univariate categorical plots
+2020-10-19 20:19:07,929 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PhoneService
+2020-10-19 20:19:08,218 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Contract
+2020-10-19 20:19:08,415 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PaperlessBilling
+2020-10-19 20:19:08,603 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PaymentMethod
+2020-10-19 20:19:08,811 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Churn
+2020-10-19 20:19:09,007 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: gender
+2020-10-19 20:19:09,281 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: SeniorCitizen
+2020-10-19 20:19:09,628 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Partner
+2020-10-19 20:19:09,833 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Dependents
+2020-10-19 20:19:10,041 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: MultipleLines
+2020-10-19 20:19:10,253 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: InternetService
+2020-10-19 20:19:10,469 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: OnlineSecurity
+2020-10-19 20:19:10,693 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: OnlineBackup
+2020-10-19 20:19:10,932 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: DeviceProtection
+2020-10-19 20:19:11,196 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: TechSupport
+2020-10-19 20:19:11,437 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: StreamingTV
+2020-10-19 20:19:11,693 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: StreamingMovies
+2020-10-19 20:19:12,091 	 [INFO | eda_bivariate.py:17] > Bivariate categorical plots
+2020-10-19 20:19:12,098 	 [INFO | eda_bivariate.py:20] > Bivariate analysis for columns: tenure
+2020-10-19 20:19:12,101 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for columns: OnlineBackup
+2020-10-19 20:19:13,095 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for columns: Contract
+2020-10-19 20:19:14,365 	 [INFO | eda_bivariate.py:20] > Bivariate analysis for columns: TotalCharges
+2020-10-19 20:19:14,367 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for columns: OnlineBackup
+2020-10-19 20:19:16,158 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for columns: Contract
+2020-10-19 20:20:48,429 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-19 20:20:48,624 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-19 20:20:49,559 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: tenure
+2020-10-19 20:20:51,187 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: MonthlyCharges
+2020-10-19 20:20:53,100 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: TotalCharges
+2020-10-19 20:20:54,833 	 [INFO | eda_univariate.py:19] > univariate categorical plots
+2020-10-19 20:20:54,845 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PhoneService
+2020-10-19 20:20:56,236 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Contract
+2020-10-19 20:20:57,596 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PaperlessBilling
+2020-10-19 20:20:58,921 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PaymentMethod
+2020-10-19 20:21:00,328 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Churn
+2020-10-19 20:21:01,624 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: gender
+2020-10-19 20:21:02,944 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: SeniorCitizen
+2020-10-19 20:21:04,282 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Partner
+2020-10-19 20:21:05,605 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Dependents
+2020-10-19 20:21:06,943 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: MultipleLines
+2020-10-19 20:21:08,324 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: InternetService
+2020-10-19 20:21:09,673 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: OnlineSecurity
+2020-10-19 20:21:11,036 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: OnlineBackup
+2020-10-19 20:21:12,358 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: DeviceProtection
+2020-10-19 20:21:13,829 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: TechSupport
+2020-10-19 20:21:15,534 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: StreamingTV
+2020-10-19 20:21:17,680 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: StreamingMovies
+2020-10-19 20:21:19,272 	 [INFO | eda_bivariate.py:17] > Bivariate categorical plots
+2020-10-19 20:21:19,278 	 [INFO | eda_bivariate.py:20] > Bivariate analysis for columns: tenure
+2020-10-19 20:21:19,280 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for columns: OnlineBackup
+2020-10-19 20:21:21,918 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for columns: Contract
+2020-10-19 20:21:24,844 	 [INFO | eda_bivariate.py:20] > Bivariate analysis for columns: TotalCharges
+2020-10-19 20:21:24,846 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for columns: OnlineBackup
+2020-10-19 20:21:28,005 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for columns: Contract
+2020-10-19 20:27:26,923 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-19 20:27:27,128 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-19 20:27:27,929 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: tenure
+2020-10-19 20:27:31,359 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: MonthlyCharges
+2020-10-19 20:27:34,743 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: TotalCharges
+2020-10-19 20:27:38,172 	 [INFO | eda_univariate.py:19] > univariate categorical plots
+2020-10-19 20:27:38,183 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PhoneService
+2020-10-19 20:27:41,776 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Contract
+2020-10-19 20:27:45,414 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PaperlessBilling
+2020-10-19 20:27:48,677 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: PaymentMethod
+2020-10-19 20:27:51,880 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Churn
+2020-10-19 20:27:55,505 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: gender
+2020-10-19 20:27:58,912 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: SeniorCitizen
+2020-10-19 20:28:02,302 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Partner
+2020-10-19 20:28:05,704 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: Dependents
+2020-10-19 20:28:09,074 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: MultipleLines
+2020-10-19 20:28:12,352 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: InternetService
+2020-10-19 20:28:15,579 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: OnlineSecurity
+2020-10-19 20:28:19,048 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: OnlineBackup
+2020-10-19 20:28:22,848 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: DeviceProtection
+2020-10-19 20:28:26,712 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: TechSupport
+2020-10-19 20:28:30,161 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: StreamingTV
+2020-10-19 20:28:33,836 	 [INFO | eda_univariate.py:22] > Univariate analysis for columns: StreamingMovies
+2020-10-19 20:28:37,745 	 [INFO | eda_bivariate.py:17] > Bivariate categorical plots
+2020-10-19 20:28:37,750 	 [INFO | eda_bivariate.py:20] > Bivariate analysis for columns: tenure
+2020-10-19 20:28:37,753 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for columns: OnlineBackup
+2020-10-19 20:28:41,887 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for columns: Contract
+2020-10-19 20:28:46,033 	 [INFO | eda_bivariate.py:20] > Bivariate analysis for columns: TotalCharges
+2020-10-19 20:28:46,035 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for columns: OnlineBackup
+2020-10-19 20:28:51,010 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for columns: Contract
+2020-10-19 20:29:29,310 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-19 20:29:29,499 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-19 20:29:30,403 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: tenure
+2020-10-19 20:29:30,929 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: MonthlyCharges
+2020-10-19 20:29:31,454 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: TotalCharges
+2020-10-19 20:29:32,224 	 [INFO | eda_univariate.py:20] > univariate categorical plots
+2020-10-19 20:29:32,229 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: PhoneService
+2020-10-19 20:29:32,672 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: Contract
+2020-10-19 20:29:33,047 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: PaperlessBilling
+2020-10-19 20:29:33,355 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: PaymentMethod
+2020-10-19 20:29:33,714 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: Churn
+2020-10-19 20:29:34,166 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: gender
+2020-10-19 20:29:34,676 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: SeniorCitizen
+2020-10-19 20:29:35,014 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: Partner
+2020-10-19 20:29:35,369 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: Dependents
+2020-10-19 20:29:35,693 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: MultipleLines
+2020-10-19 20:29:36,181 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: InternetService
+2020-10-19 20:29:36,545 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: OnlineSecurity
+2020-10-19 20:29:37,027 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: OnlineBackup
+2020-10-19 20:29:37,393 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: DeviceProtection
+2020-10-19 20:29:37,764 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: TechSupport
+2020-10-19 20:29:38,136 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: StreamingTV
+2020-10-19 20:29:38,507 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: StreamingMovies
+2020-10-19 20:29:39,046 	 [INFO | eda_bivariate.py:17] > Bivariate categorical plots
+2020-10-19 20:29:39,048 	 [INFO | eda_bivariate.py:20] > Bivariate analysis for columns: tenure
+2020-10-19 20:29:39,051 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for columns: OnlineBackup
+2020-10-19 20:29:40,705 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for columns: Contract
+2020-10-19 20:29:43,157 	 [INFO | eda_bivariate.py:20] > Bivariate analysis for columns: TotalCharges
+2020-10-19 20:29:43,159 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for columns: OnlineBackup
+2020-10-19 20:29:46,297 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for columns: Contract
+2020-10-19 20:36:30,368 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-19 20:36:30,593 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-19 20:36:54,309 	 [INFO | eda_bivariate.py:18] > Bivariate categorical plots
+2020-10-19 20:36:54,316 	 [INFO | eda_bivariate.py:27] > Bivariate analysis for num column: tenureand cat columns OnlineBackup, Contract
+2020-10-19 20:36:55,651 	 [INFO | eda_bivariate.py:27] > Bivariate analysis for num column: TotalChargesand cat columns OnlineBackup, Contract
+2020-10-19 20:41:59,197 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-19 20:41:59,394 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-19 20:42:05,919 	 [INFO | eda_bivariate.py:18] > Bivariate categorical plots
+2020-10-19 20:42:05,926 	 [INFO | eda_bivariate.py:27] > Bivariate analysis for num column: tenure and cat columns OnlineBackup, Contract
+2020-10-19 20:42:07,210 	 [INFO | eda_bivariate.py:27] > Bivariate analysis for num column: TotalCharges and cat columns OnlineBackup, Contract
+2020-10-19 20:43:56,297 	 [INFO | eda_bivariate.py:18] > Bivariate categorical plots
+2020-10-19 20:43:56,303 	 [INFO | eda_bivariate.py:27] > Bivariate analysis for num column: tenure and cat columns OnlineBackup, Contract
+2020-10-19 20:43:57,512 	 [INFO | eda_bivariate.py:27] > Bivariate analysis for num column: tenure and cat columns OnlineBackup, PaymentMetjod
+2020-10-19 20:44:03,664 	 [INFO | eda_bivariate.py:18] > Bivariate categorical plots
+2020-10-19 20:44:03,671 	 [INFO | eda_bivariate.py:27] > Bivariate analysis for num column: tenure and cat columns OnlineBackup, Contract
+2020-10-19 20:44:04,885 	 [INFO | eda_bivariate.py:27] > Bivariate analysis for num column: tenure and cat columns OnlineBackup, PaymentMethod
+2020-10-19 20:44:06,960 	 [INFO | eda_bivariate.py:27] > Bivariate analysis for num column: tenure and cat columns Contract, PaymentMethod
+2020-10-19 20:44:09,618 	 [INFO | eda_bivariate.py:27] > Bivariate analysis for num column: TotalCharges and cat columns OnlineBackup, Contract
+2020-10-19 20:44:12,956 	 [INFO | eda_bivariate.py:27] > Bivariate analysis for num column: TotalCharges and cat columns OnlineBackup, PaymentMethod
+2020-10-19 20:44:17,067 	 [INFO | eda_bivariate.py:27] > Bivariate analysis for num column: TotalCharges and cat columns Contract, PaymentMethod
+2020-10-19 20:46:12,373 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-19 20:46:12,574 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-19 20:46:21,789 	 [INFO | eda_bivariate.py:18] > Bivariate categorical plots
+2020-10-19 20:54:12,374 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-19 20:54:12,588 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-19 20:54:13,342 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: tenure
+2020-10-19 20:54:13,878 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: MonthlyCharges
+2020-10-19 20:54:14,364 	 [INFO | eda_univariate.py:14] > Univariate analysis for columns: TotalCharges
+2020-10-19 20:54:14,894 	 [INFO | eda_univariate.py:20] > univariate categorical plots
+2020-10-19 20:54:14,904 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: PhoneService
+2020-10-19 20:54:15,261 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: Contract
+2020-10-19 20:54:15,571 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: PaperlessBilling
+2020-10-19 20:54:15,866 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: PaymentMethod
+2020-10-19 20:54:16,236 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: Churn
+2020-10-19 20:54:16,537 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: gender
+2020-10-19 20:54:16,846 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: SeniorCitizen
+2020-10-19 20:54:17,173 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: Partner
+2020-10-19 20:54:17,502 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: Dependents
+2020-10-19 20:54:17,855 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: MultipleLines
+2020-10-19 20:54:18,215 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: InternetService
+2020-10-19 20:54:18,566 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: OnlineSecurity
+2020-10-19 20:54:18,933 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: OnlineBackup
+2020-10-19 20:54:19,284 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: DeviceProtection
+2020-10-19 20:54:19,700 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: TechSupport
+2020-10-19 20:54:20,083 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: StreamingTV
+2020-10-19 20:54:20,501 	 [INFO | eda_univariate.py:23] > Univariate analysis for columns: StreamingMovies
+2020-10-19 20:54:21,111 	 [INFO | eda_bivariate.py:18] > Bivariate categorical plots
+2020-10-19 20:54:21,121 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for num column: tenure and cat columns OnlineBackup
+2020-10-19 20:54:21,984 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for num column: tenure and cat columns Contract
+2020-10-19 20:54:22,953 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for num column: tenure and cat columns PaymentMethod
+2020-10-19 20:54:24,247 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for num column: TotalCharges and cat columns OnlineBackup
+2020-10-19 20:54:25,774 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for num column: TotalCharges and cat columns Contract
+2020-10-19 20:54:27,522 	 [INFO | eda_bivariate.py:22] > Bivariate analysis for num column: TotalCharges and cat columns PaymentMethod
+2020-10-19 20:57:11,026 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-19 20:57:11,236 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-19 20:57:12,075 	 [INFO | eda_core.py:47] > Univariate analysis for columns: tenure
+2020-10-19 20:57:12,666 	 [INFO | eda_core.py:47] > Univariate analysis for columns: MonthlyCharges
+2020-10-19 20:57:13,141 	 [INFO | eda_core.py:47] > Univariate analysis for columns: TotalCharges
+2020-10-19 20:57:13,682 	 [INFO | eda_core.py:53] > univariate categorical plots
+2020-10-19 20:57:13,688 	 [INFO | eda_core.py:56] > Univariate analysis for columns: PhoneService
+2020-10-19 20:57:14,052 	 [INFO | eda_core.py:56] > Univariate analysis for columns: Contract
+2020-10-19 20:57:14,371 	 [INFO | eda_core.py:56] > Univariate analysis for columns: PaperlessBilling
+2020-10-19 20:57:14,889 	 [INFO | eda_core.py:56] > Univariate analysis for columns: PaymentMethod
+2020-10-19 20:57:15,485 	 [INFO | eda_core.py:56] > Univariate analysis for columns: Churn
+2020-10-19 20:57:15,844 	 [INFO | eda_core.py:56] > Univariate analysis for columns: gender
+2020-10-19 20:57:16,181 	 [INFO | eda_core.py:56] > Univariate analysis for columns: SeniorCitizen
+2020-10-19 20:57:16,523 	 [INFO | eda_core.py:56] > Univariate analysis for columns: Partner
+2020-10-19 20:57:16,858 	 [INFO | eda_core.py:56] > Univariate analysis for columns: Dependents
+2020-10-19 20:57:17,264 	 [INFO | eda_core.py:56] > Univariate analysis for columns: MultipleLines
+2020-10-19 20:57:17,612 	 [INFO | eda_core.py:56] > Univariate analysis for columns: InternetService
+2020-10-19 20:57:17,974 	 [INFO | eda_core.py:56] > Univariate analysis for columns: OnlineSecurity
+2020-10-19 20:57:18,457 	 [INFO | eda_core.py:56] > Univariate analysis for columns: OnlineBackup
+2020-10-19 20:57:18,910 	 [INFO | eda_core.py:56] > Univariate analysis for columns: DeviceProtection
+2020-10-19 20:57:19,290 	 [INFO | eda_core.py:56] > Univariate analysis for columns: TechSupport
+2020-10-19 20:57:19,666 	 [INFO | eda_core.py:56] > Univariate analysis for columns: StreamingTV
+2020-10-19 20:57:20,064 	 [INFO | eda_core.py:56] > Univariate analysis for columns: StreamingMovies
+2020-10-19 20:57:20,596 	 [INFO | eda_core.py:34] > Bivariate categorical plots
+2020-10-19 20:57:20,603 	 [INFO | eda_core.py:38] > Bivariate analysis for num column: tenure and cat columns OnlineBackup
+2020-10-19 20:57:21,661 	 [INFO | eda_core.py:38] > Bivariate analysis for num column: tenure and cat columns Contract
+2020-10-19 20:57:22,827 	 [INFO | eda_core.py:38] > Bivariate analysis for num column: tenure and cat columns PaymentMethod
+2020-10-19 20:57:24,198 	 [INFO | eda_core.py:38] > Bivariate analysis for num column: TotalCharges and cat columns OnlineBackup
+2020-10-19 20:57:25,800 	 [INFO | eda_core.py:38] > Bivariate analysis for num column: TotalCharges and cat columns Contract
+2020-10-19 20:57:27,692 	 [INFO | eda_core.py:38] > Bivariate analysis for num column: TotalCharges and cat columns PaymentMethod
+2020-10-19 20:57:35,771 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-19 20:57:35,774 	 [INFO | data_prepare.py:18] > ['Contract', 'PaymentMethod', 'gender', 'InternetService']
+2020-10-19 20:57:35,921 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-19 20:57:35,923 	 [INFO | data_prepare.py:18] > ['MultipleLines', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies']
+2020-10-19 21:00:54,206 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-19 21:00:54,437 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-19 21:00:55,404 	 [INFO | eda_core.py:50] > Univariate analysis for columns: tenure
+2020-10-19 21:00:56,133 	 [INFO | eda_core.py:50] > Univariate analysis for columns: MonthlyCharges
+2020-10-19 21:00:56,637 	 [INFO | eda_core.py:50] > Univariate analysis for columns: TotalCharges
+2020-10-19 21:00:58,586 	 [INFO | eda_core.py:56] > univariate categorical plots
+2020-10-19 21:00:58,598 	 [INFO | eda_core.py:60] > Univariate analysis for columns: PhoneService
+2020-10-19 21:00:58,958 	 [INFO | eda_core.py:60] > Univariate analysis for columns: Contract
+2020-10-19 21:00:59,206 	 [INFO | eda_core.py:60] > Univariate analysis for columns: PaperlessBilling
+2020-10-19 21:00:59,442 	 [INFO | eda_core.py:60] > Univariate analysis for columns: PaymentMethod
+2020-10-19 21:00:59,736 	 [INFO | eda_core.py:60] > Univariate analysis for columns: Churn
+2020-10-19 21:01:00,021 	 [INFO | eda_core.py:60] > Univariate analysis for columns: gender
+2020-10-19 21:01:00,275 	 [INFO | eda_core.py:60] > Univariate analysis for columns: SeniorCitizen
+2020-10-19 21:01:00,578 	 [INFO | eda_core.py:60] > Univariate analysis for columns: Partner
+2020-10-19 21:01:00,819 	 [INFO | eda_core.py:60] > Univariate analysis for columns: Dependents
+2020-10-19 21:01:01,061 	 [INFO | eda_core.py:60] > Univariate analysis for columns: MultipleLines
+2020-10-19 21:01:01,325 	 [INFO | eda_core.py:60] > Univariate analysis for columns: InternetService
+2020-10-19 21:01:01,610 	 [INFO | eda_core.py:60] > Univariate analysis for columns: OnlineSecurity
+2020-10-19 21:01:01,882 	 [INFO | eda_core.py:60] > Univariate analysis for columns: OnlineBackup
+2020-10-19 21:01:02,162 	 [INFO | eda_core.py:60] > Univariate analysis for columns: DeviceProtection
+2020-10-19 21:01:02,464 	 [INFO | eda_core.py:60] > Univariate analysis for columns: TechSupport
+2020-10-19 21:01:02,797 	 [INFO | eda_core.py:60] > Univariate analysis for columns: StreamingTV
+2020-10-19 21:01:03,120 	 [INFO | eda_core.py:60] > Univariate analysis for columns: StreamingMovies
+2020-10-19 21:01:04,288 	 [INFO | eda_core.py:35] > Bivariate categorical plots
+2020-10-19 21:01:04,297 	 [INFO | eda_core.py:40] > Bivariate analysis for num column: tenure and cat columns OnlineBackup
+2020-10-19 21:01:04,981 	 [INFO | eda_core.py:40] > Bivariate analysis for num column: tenure and cat columns Contract
+2020-10-19 21:01:05,829 	 [INFO | eda_core.py:40] > Bivariate analysis for num column: tenure and cat columns PaymentMethod
+2020-10-19 21:01:06,973 	 [INFO | eda_core.py:40] > Bivariate analysis for num column: TotalCharges and cat columns OnlineBackup
+2020-10-19 21:01:08,314 	 [INFO | eda_core.py:40] > Bivariate analysis for num column: TotalCharges and cat columns Contract
+2020-10-19 21:01:09,948 	 [INFO | eda_core.py:40] > Bivariate analysis for num column: TotalCharges and cat columns PaymentMethod
+2020-10-19 21:01:31,245 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-19 21:01:31,252 	 [INFO | data_prepare.py:18] > ['Contract', 'PaymentMethod', 'gender', 'InternetService']
+2020-10-19 21:01:31,406 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-19 21:01:31,409 	 [INFO | data_prepare.py:18] > ['MultipleLines', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies']
+2020-10-19 21:04:08,800 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-19 21:04:09,008 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-19 21:04:09,779 	 [INFO | eda_univariate.py:15] > Univariate analysis for columns: tenure
+2020-10-19 21:04:10,443 	 [INFO | eda_univariate.py:15] > Univariate analysis for columns: MonthlyCharges
+2020-10-19 21:04:11,021 	 [INFO | eda_univariate.py:15] > Univariate analysis for columns: TotalCharges
+2020-10-19 21:04:12,991 	 [INFO | eda_univariate.py:21] > univariate categorical plots
+2020-10-19 21:04:13,002 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: PhoneService
+2020-10-19 21:04:13,291 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: Contract
+2020-10-19 21:04:13,523 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: PaperlessBilling
+2020-10-19 21:04:13,739 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: PaymentMethod
+2020-10-19 21:04:13,982 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: Churn
+2020-10-19 21:04:14,299 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: gender
+2020-10-19 21:04:14,613 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: SeniorCitizen
+2020-10-19 21:04:14,845 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: Partner
+2020-10-19 21:04:15,110 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: Dependents
+2020-10-19 21:04:15,483 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: MultipleLines
+2020-10-19 21:04:15,816 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: InternetService
+2020-10-19 21:04:16,106 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: OnlineSecurity
+2020-10-19 21:04:16,515 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: OnlineBackup
+2020-10-19 21:04:16,827 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: DeviceProtection
+2020-10-19 21:04:17,280 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: TechSupport
+2020-10-19 21:04:17,651 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: StreamingTV
+2020-10-19 21:04:18,069 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: StreamingMovies
+2020-10-19 21:04:19,216 	 [INFO | eda_bivariate.py:19] > Bivariate categorical plots
+2020-10-19 21:04:19,225 	 [INFO | eda_bivariate.py:29] > Bivariate analysis for num column: tenure and cat columns OnlineBackup, Contract
+2020-10-19 21:04:20,640 	 [INFO | eda_bivariate.py:29] > Bivariate analysis for num column: tenure and cat columns OnlineBackup, PaymentMethod
+2020-10-19 21:04:22,953 	 [INFO | eda_bivariate.py:29] > Bivariate analysis for num column: tenure and cat columns Contract, PaymentMethod
+2020-10-19 21:04:26,051 	 [INFO | eda_bivariate.py:29] > Bivariate analysis for num column: TotalCharges and cat columns OnlineBackup, Contract
+2020-10-19 21:04:29,819 	 [INFO | eda_bivariate.py:29] > Bivariate analysis for num column: TotalCharges and cat columns OnlineBackup, PaymentMethod
+2020-10-19 21:04:34,252 	 [INFO | eda_bivariate.py:29] > Bivariate analysis for num column: TotalCharges and cat columns Contract, PaymentMethod
+2020-10-19 21:05:02,599 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-19 21:05:02,603 	 [INFO | data_prepare.py:18] > ['Contract', 'PaymentMethod', 'gender', 'InternetService']
+2020-10-19 21:05:02,759 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-19 21:05:02,762 	 [INFO | data_prepare.py:18] > ['MultipleLines', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies']
+2020-10-19 21:05:40,875 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-19 21:05:41,072 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-19 21:05:42,224 	 [INFO | eda_univariate.py:15] > Univariate analysis for columns: tenure
+2020-10-19 21:05:42,865 	 [INFO | eda_univariate.py:15] > Univariate analysis for columns: MonthlyCharges
+2020-10-19 21:05:43,425 	 [INFO | eda_univariate.py:15] > Univariate analysis for columns: TotalCharges
+2020-10-19 21:05:45,219 	 [INFO | eda_univariate.py:21] > univariate categorical plots
+2020-10-19 21:05:45,246 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: PhoneService
+2020-10-19 21:05:45,636 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: Contract
+2020-10-19 21:05:45,863 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: PaperlessBilling
+2020-10-19 21:05:46,083 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: PaymentMethod
+2020-10-19 21:05:46,332 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: Churn
+2020-10-19 21:05:46,561 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: gender
+2020-10-19 21:05:46,801 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: SeniorCitizen
+2020-10-19 21:05:47,063 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: Partner
+2020-10-19 21:05:47,303 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: Dependents
+2020-10-19 21:05:47,562 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: MultipleLines
+2020-10-19 21:05:47,829 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: InternetService
+2020-10-19 21:05:48,106 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: OnlineSecurity
+2020-10-19 21:05:48,388 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: OnlineBackup
+2020-10-19 21:05:48,676 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: DeviceProtection
+2020-10-19 21:05:48,965 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: TechSupport
+2020-10-19 21:05:49,273 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: StreamingTV
+2020-10-19 21:05:49,595 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: StreamingMovies
+2020-10-19 21:05:50,921 	 [INFO | eda_bivariate.py:19] > Bivariate categorical plots
+2020-10-19 21:05:50,931 	 [INFO | eda_bivariate.py:29] > Bivariate analysis for num column: tenure and cat columns OnlineBackup, Contract
+2020-10-19 21:05:52,220 	 [INFO | eda_bivariate.py:29] > Bivariate analysis for num column: tenure and cat columns OnlineBackup, PaymentMethod
+2020-10-19 21:05:54,162 	 [INFO | eda_bivariate.py:29] > Bivariate analysis for num column: tenure and cat columns Contract, PaymentMethod
+2020-10-19 21:05:56,844 	 [INFO | eda_bivariate.py:29] > Bivariate analysis for num column: TotalCharges and cat columns OnlineBackup, Contract
+2020-10-19 21:06:00,274 	 [INFO | eda_bivariate.py:29] > Bivariate analysis for num column: TotalCharges and cat columns OnlineBackup, PaymentMethod
+2020-10-19 21:06:04,378 	 [INFO | eda_bivariate.py:29] > Bivariate analysis for num column: TotalCharges and cat columns Contract, PaymentMethod
+2020-10-19 21:06:34,749 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-19 21:06:34,752 	 [INFO | data_prepare.py:18] > ['Contract', 'PaymentMethod', 'gender', 'InternetService']
+2020-10-19 21:06:34,910 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-19 21:06:34,913 	 [INFO | data_prepare.py:18] > ['MultipleLines', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies']
+2020-10-19 21:09:15,206 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-19 21:09:15,388 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-19 21:09:16,134 	 [INFO | eda_univariate.py:15] > Univariate analysis for columns: tenure
+2020-10-19 21:09:16,814 	 [INFO | eda_univariate.py:15] > Univariate analysis for columns: MonthlyCharges
+2020-10-19 21:09:17,509 	 [INFO | eda_univariate.py:15] > Univariate analysis for columns: TotalCharges
+2020-10-19 21:09:19,444 	 [INFO | eda_univariate.py:21] > univariate categorical plots
+2020-10-19 21:09:19,455 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: PhoneService
+2020-10-19 21:09:19,741 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: Contract
+2020-10-19 21:09:19,952 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: PaperlessBilling
+2020-10-19 21:09:20,242 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: PaymentMethod
+2020-10-19 21:09:20,553 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: Churn
+2020-10-19 21:09:20,895 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: gender
+2020-10-19 21:09:21,191 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: SeniorCitizen
+2020-10-19 21:09:21,501 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: Partner
+2020-10-19 21:09:21,755 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: Dependents
+2020-10-19 21:09:22,082 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: MultipleLines
+2020-10-19 21:09:22,394 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: InternetService
+2020-10-19 21:09:22,686 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: OnlineSecurity
+2020-10-19 21:09:23,053 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: OnlineBackup
+2020-10-19 21:09:23,421 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: DeviceProtection
+2020-10-19 21:09:23,733 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: TechSupport
+2020-10-19 21:09:24,155 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: StreamingTV
+2020-10-19 21:09:24,476 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: StreamingMovies
+2020-10-19 21:09:25,706 	 [INFO | eda_bivariate.py:19] > Bivariate categorical plots
+2020-10-19 21:09:25,715 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column OnlineBackup
+2020-10-19 21:09:26,541 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column Contract
+2020-10-19 21:09:27,380 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column PaymentMethod
+2020-10-19 21:09:28,544 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column OnlineBackup
+2020-10-19 21:09:29,908 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column Contract
+2020-10-19 21:09:31,565 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column PaymentMethod
+2020-10-19 21:09:51,616 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-19 21:09:51,619 	 [INFO | data_prepare.py:18] > ['Contract', 'PaymentMethod', 'gender', 'InternetService']
+2020-10-19 21:09:51,767 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-19 21:09:51,769 	 [INFO | data_prepare.py:18] > ['MultipleLines', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies']
+2020-10-19 21:12:05,154 	 [INFO | eda_bivariate.py:19] > Bivariate categorical plots
+2020-10-19 21:12:05,165 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column PhoneService
+2020-10-19 21:12:05,818 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column Contract
+2020-10-19 21:12:32,744 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-19 21:12:32,983 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-19 21:12:34,106 	 [INFO | eda_univariate.py:15] > Univariate analysis for columns: tenure
+2020-10-19 21:12:34,707 	 [INFO | eda_univariate.py:15] > Univariate analysis for columns: MonthlyCharges
+2020-10-19 21:12:35,491 	 [INFO | eda_univariate.py:15] > Univariate analysis for columns: TotalCharges
+2020-10-19 21:12:37,210 	 [INFO | eda_univariate.py:21] > univariate categorical plots
+2020-10-19 21:12:37,220 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: PhoneService
+2020-10-19 21:12:37,513 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: Contract
+2020-10-19 21:12:37,737 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: PaperlessBilling
+2020-10-19 21:12:37,944 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: PaymentMethod
+2020-10-19 21:12:38,195 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: Churn
+2020-10-19 21:12:38,517 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: gender
+2020-10-19 21:12:38,893 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: SeniorCitizen
+2020-10-19 21:12:39,183 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: Partner
+2020-10-19 21:12:39,422 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: Dependents
+2020-10-19 21:12:39,668 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: MultipleLines
+2020-10-19 21:12:39,951 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: InternetService
+2020-10-19 21:12:40,241 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: OnlineSecurity
+2020-10-19 21:12:40,522 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: OnlineBackup
+2020-10-19 21:12:40,807 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: DeviceProtection
+2020-10-19 21:12:41,120 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: TechSupport
+2020-10-19 21:12:41,413 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: StreamingTV
+2020-10-19 21:12:41,719 	 [INFO | eda_univariate.py:25] > Univariate analysis for columns: StreamingMovies
+2020-10-19 21:12:42,754 	 [INFO | eda_bivariate.py:19] > Bivariate categorical plots
+2020-10-19 21:12:42,765 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column PhoneService
+2020-10-19 21:12:43,448 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column Contract
+2020-10-19 21:12:44,353 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column PaperlessBilling
+2020-10-19 21:12:45,463 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column PaymentMethod
+2020-10-19 21:12:46,930 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column Churn
+2020-10-19 21:12:48,588 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column gender
+2020-10-19 21:12:50,561 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column SeniorCitizen
+2020-10-19 21:12:52,817 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column Partner
+2020-10-19 21:12:55,350 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column Dependents
+2020-10-19 21:12:58,180 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column MultipleLines
+2020-10-19 21:13:01,299 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column InternetService
+2020-10-19 21:13:04,739 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column OnlineSecurity
+2020-10-19 21:13:08,434 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column OnlineBackup
+2020-10-19 21:13:12,387 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column DeviceProtection
+2020-10-19 21:13:16,664 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column TechSupport
+2020-10-19 21:13:21,172 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column StreamingTV
+2020-10-19 21:13:26,033 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: tenure and cat column StreamingMovies
+2020-10-19 21:13:31,167 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column PhoneService
+2020-10-19 21:13:36,393 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column Contract
+2020-10-19 21:13:42,080 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column PaperlessBilling
+2020-10-19 21:13:47,816 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column PaymentMethod
+2020-10-19 21:13:54,099 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column Churn
+2020-10-19 21:14:00,401 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column gender
+2020-10-19 21:14:07,003 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column SeniorCitizen
+2020-10-19 21:14:13,946 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column Partner
+2020-10-19 21:14:21,171 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column Dependents
+2020-10-19 21:14:28,641 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column MultipleLines
+2020-10-19 21:14:36,573 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column InternetService
+2020-10-19 21:14:44,859 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column OnlineSecurity
+2020-10-19 21:14:53,371 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column OnlineBackup
+2020-10-19 21:15:02,130 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column DeviceProtection
+2020-10-19 21:15:11,214 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column TechSupport
+2020-10-19 21:15:20,468 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column StreamingTV
+2020-10-19 21:15:30,090 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: MonthlyCharges and cat column StreamingMovies
+2020-10-19 21:15:39,945 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column PhoneService
+2020-10-19 21:15:49,834 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column Contract
+2020-10-19 21:16:00,169 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column PaperlessBilling
+2020-10-19 21:16:10,531 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column PaymentMethod
+2020-10-19 21:16:21,489 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column Churn
+2020-10-19 21:16:33,027 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column gender
+2020-10-19 21:16:44,709 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column SeniorCitizen
+2020-10-19 21:16:56,580 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column Partner
+2020-10-19 21:17:08,536 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column Dependents
+2020-10-19 21:17:20,814 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column MultipleLines
+2020-10-19 21:17:33,533 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column InternetService
+2020-10-19 21:17:46,807 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column OnlineSecurity
+2020-10-19 21:18:00,078 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column OnlineBackup
+2020-10-19 21:18:13,729 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column DeviceProtection
+2020-10-19 21:18:27,663 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column TechSupport
+2020-10-19 21:18:42,114 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column StreamingTV
+2020-10-19 21:18:56,608 	 [INFO | eda_bivariate.py:24] > Bivariate analysis for num column: TotalCharges and cat column StreamingMovies
+2020-10-19 21:19:47,289 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-19 21:19:47,292 	 [INFO | data_prepare.py:18] > ['Contract', 'PaymentMethod', 'gender', 'InternetService']
+2020-10-19 21:19:47,439 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-19 21:19:47,440 	 [INFO | data_prepare.py:18] > ['MultipleLines', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies']
+2020-10-19 21:28:11,202 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-19 21:28:11,394 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-19 21:28:21,326 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-19 21:28:21,329 	 [INFO | data_prepare.py:18] > ['Contract', 'PaymentMethod', 'gender', 'InternetService']
+2020-10-19 21:28:21,479 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-19 21:28:21,481 	 [INFO | data_prepare.py:18] > ['MultipleLines', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies']
+2020-10-19 21:45:18,419 	 [INFO | data_reader.py:8] > importing data from churn_data.csv,customer_data.csv,internet_data.csv
+2020-10-19 21:45:18,648 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-19 21:45:30,979 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-19 21:45:30,983 	 [INFO | data_prepare.py:18] > ['Contract', 'PaymentMethod', 'gender', 'InternetService']
+2020-10-19 21:45:31,127 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-19 21:45:31,129 	 [INFO | data_prepare.py:18] > ['MultipleLines', 'OnlineSecurity', 'OnlineBackup', 'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies']

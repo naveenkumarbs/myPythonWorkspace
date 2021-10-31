@@ -1,0 +1,228 @@
+2020-10-28 15:00:53,386 	 [INFO | data_reader.py:8] > importing data from telecom_churn_data.csv
+2020-10-28 15:01:03,699 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-28 15:08:53,863 	 [INFO | data_reader.py:8] > importing data from telecom_churn_data.csv
+2020-10-28 15:09:05,055 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-28 15:11:27,103 	 [INFO | data_reader.py:8] > importing data from telecom_churn_data.csv
+2020-10-28 15:11:34,906 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-28 15:38:33,710 	 [INFO | data_reader.py:8] > importing data from telecom_churn_data.csv
+2020-10-28 15:38:39,425 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-28 15:51:28,027 	 [INFO | data_reader.py:8] > importing data from telecom_churn_data.csv
+2020-10-28 15:51:33,137 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-28 16:02:30,867 	 [INFO | data_reader.py:8] > importing data from telecom_churn_data.csv
+2020-10-28 16:02:35,888 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-28 16:07:32,116 	 [INFO | data_reader.py:8] > importing data from telecom_churn_data.csv
+2020-10-28 16:07:38,149 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-28 16:08:44,218 	 [INFO | data_reader.py:8] > importing data from telecom_churn_data.csv
+2020-10-28 16:08:49,162 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-28 16:27:28,114 	 [INFO | data_reader.py:8] > importing data from telecom_churn_data.csv
+2020-10-28 16:27:33,966 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-28 19:03:41,212 	 [INFO | data_reader.py:8] > importing data from telecom_churn_data.csv
+2020-10-28 19:03:47,492 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-28 19:04:11,202 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-28 19:04:11,207 	 [INFO | data_prepare.py:18] > ['onnet_67', 'onnet_8', 'onnet_6', 'onnet_7', 'offnet_67', 'offnet_8', 'offnet_6', 'offnet_7']
+2020-10-28 19:04:12,145 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-28 19:04:12,148 	 [INFO | data_prepare.py:18] > ['night_pck_user_6', 'night_pck_user_7', 'night_pck_user_8', 'fb_user_6', 'fb_user_7', 'fb_user_8']
+2020-10-28 19:15:18,491 	 [INFO | eda_univariate.py:32] > univariate categorical plots
+2020-10-28 19:15:18,497 	 [INFO | eda_univariate.py:38] > Univariate analysis for columns: Average_onnet_6
+2020-10-28 19:15:55,966 	 [INFO | data_reader.py:8] > importing data from telecom_churn_data.csv
+2020-10-28 19:16:02,608 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-28 19:16:24,589 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-28 19:16:24,593 	 [INFO | data_prepare.py:18] > ['onnet_67', 'onnet_8', 'onnet_6', 'onnet_7', 'offnet_67', 'offnet_8', 'offnet_6', 'offnet_7']
+2020-10-28 19:16:25,486 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-28 19:16:25,489 	 [INFO | data_prepare.py:18] > ['night_pck_user_6', 'night_pck_user_7', 'night_pck_user_8', 'fb_user_6', 'fb_user_7', 'fb_user_8']
+2020-10-28 19:16:28,610 	 [INFO | eda_univariate.py:32] > univariate categorical plots
+2020-10-28 19:16:28,619 	 [INFO | eda_univariate.py:38] > Univariate analysis for columns: Average_onnet_6
+2020-10-28 19:17:03,774 	 [INFO | eda_univariate.py:32] > univariate categorical plots
+2020-10-28 19:17:03,784 	 [INFO | eda_univariate.py:38] > Univariate analysis for columns: Average_onnet_7
+2020-10-28 19:17:04,485 	 [INFO | eda_univariate.py:38] > Univariate analysis for columns: Average_onnet_8
+2020-10-28 19:17:05,109 	 [INFO | eda_univariate.py:38] > Univariate analysis for columns: Average_onnet_67
+2020-10-28 19:18:23,524 	 [INFO | data_reader.py:8] > importing data from telecom_churn_data.csv
+2020-10-28 19:18:29,290 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-28 19:18:55,858 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-28 19:18:55,864 	 [INFO | data_prepare.py:18] > ['onnet_67', 'onnet_8', 'onnet_6', 'onnet_7', 'offnet_67', 'offnet_8', 'offnet_6', 'offnet_7']
+2020-10-28 19:18:56,756 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-28 19:18:56,759 	 [INFO | data_prepare.py:18] > ['night_pck_user_6', 'night_pck_user_7', 'night_pck_user_8', 'fb_user_6', 'fb_user_7', 'fb_user_8']
+2020-10-28 19:19:00,051 	 [INFO | eda_univariate.py:32] > univariate categorical plots
+2020-10-28 19:19:00,057 	 [INFO | eda_univariate.py:38] > Univariate analysis for columns: Average_onnet_7
+2020-10-28 19:19:00,716 	 [INFO | eda_univariate.py:38] > Univariate analysis for columns: Average_onnet_8
+2020-10-28 19:19:01,362 	 [INFO | eda_univariate.py:38] > Univariate analysis for columns: Average_onnet_67
+2020-10-28 19:25:00,319 	 [INFO | data_reader.py:8] > importing data from telecom_churn_data.csv
+2020-10-28 19:25:05,808 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-28 19:25:28,162 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-28 19:25:28,164 	 [INFO | data_prepare.py:18] > ['onnet_67', 'onnet_8', 'onnet_6', 'onnet_7', 'offnet_67', 'offnet_8', 'offnet_6', 'offnet_7']
+2020-10-28 19:25:28,984 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-28 19:25:28,986 	 [INFO | data_prepare.py:18] > ['night_pck_user_6', 'night_pck_user_7', 'night_pck_user_8', 'fb_user_6', 'fb_user_7', 'fb_user_8']
+2020-10-28 19:25:31,219 	 [INFO | eda_univariate.py:32] > univariate categorical plots
+2020-10-28 19:25:31,231 	 [INFO | eda_univariate.py:38] > Univariate analysis for columns: Average_onnet_7
+2020-10-28 19:25:31,881 	 [INFO | eda_univariate.py:38] > Univariate analysis for columns: Average_onnet_8
+2020-10-28 19:25:32,519 	 [INFO | eda_univariate.py:38] > Univariate analysis for columns: Average_onnet_67
+2020-10-28 19:25:33,139 	 [INFO | eda_univariate.py:38] > Univariate analysis for columns: Average_offnet_67
+2020-10-28 19:25:33,793 	 [INFO | eda_univariate.py:38] > Univariate analysis for columns: Average_offnet_7
+2020-10-28 19:25:34,414 	 [INFO | eda_univariate.py:38] > Univariate analysis for columns: Average_offnet_8
+2020-10-28 19:44:42,680 	 [INFO | eda_univariate.py:26] > Univariate analysis for columns: total_calls_6
+2020-10-28 19:44:43,523 	 [INFO | eda_univariate.py:26] > Univariate analysis for columns: total_calls_7
+2020-10-28 19:44:44,213 	 [INFO | eda_univariate.py:26] > Univariate analysis for columns: total_calls_8
+2020-10-28 19:44:44,995 	 [INFO | eda_univariate.py:26] > Univariate analysis for columns: arpu_6
+2020-10-28 19:44:45,867 	 [INFO | eda_univariate.py:26] > Univariate analysis for columns: arpu_7
+2020-10-28 19:44:46,756 	 [INFO | eda_univariate.py:26] > Univariate analysis for columns: avg_revenue_6_7
+2020-10-28 19:45:11,716 	 [INFO | data_reader.py:8] > importing data from telecom_churn_data.csv
+2020-10-28 19:45:17,601 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-28 19:45:40,583 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-28 19:45:40,585 	 [INFO | data_prepare.py:18] > ['onnet_67', 'onnet_8', 'onnet_6', 'onnet_7', 'offnet_67', 'offnet_8', 'offnet_6', 'offnet_7']
+2020-10-28 19:45:41,690 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-28 19:45:41,692 	 [INFO | data_prepare.py:18] > ['night_pck_user_6', 'night_pck_user_7', 'night_pck_user_8', 'fb_user_6', 'fb_user_7', 'fb_user_8']
+2020-10-28 19:45:43,906 	 [INFO | eda_univariate.py:45] > univariate categorical plots
+2020-10-28 19:45:43,913 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_onnet_7
+2020-10-28 19:45:44,578 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_onnet_8
+2020-10-28 19:45:45,193 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_onnet_67
+2020-10-28 19:45:45,832 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_offnet_67
+2020-10-28 19:45:46,471 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_offnet_7
+2020-10-28 19:45:47,100 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_offnet_8
+2020-10-28 19:45:50,413 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: total_calls_6
+2020-10-28 19:45:53,749 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: total_calls_7
+2020-10-28 19:45:56,717 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: total_calls_8
+2020-10-28 19:46:00,202 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: arpu_6
+2020-10-28 19:46:07,916 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: arpu_7
+2020-10-28 19:46:17,715 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: avg_revenue_6_7
+2020-10-28 19:59:19,551 	 [INFO | data_reader.py:8] > importing data from telecom_churn_data.csv
+2020-10-28 19:59:26,101 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-28 19:59:49,562 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-28 19:59:49,565 	 [INFO | data_prepare.py:18] > ['onnet_67', 'onnet_8', 'onnet_6', 'onnet_7', 'offnet_67', 'offnet_8', 'offnet_6', 'offnet_7']
+2020-10-28 19:59:50,532 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-28 19:59:50,541 	 [INFO | data_prepare.py:18] > ['night_pck_user_6', 'night_pck_user_7', 'night_pck_user_8', 'fb_user_6', 'fb_user_7', 'fb_user_8']
+2020-10-28 19:59:52,731 	 [INFO | eda_univariate.py:45] > univariate categorical plots
+2020-10-28 19:59:52,743 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_onnet_7
+2020-10-28 19:59:53,389 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_onnet_8
+2020-10-28 19:59:54,052 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_onnet_67
+2020-10-28 19:59:54,675 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_offnet_67
+2020-10-28 19:59:55,299 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_offnet_7
+2020-10-28 19:59:55,934 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_offnet_8
+2020-10-28 19:59:59,577 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: total_calls_6
+2020-10-28 20:00:03,077 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: total_calls_7
+2020-10-28 20:00:06,093 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: total_calls_8
+2020-10-28 20:00:09,966 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: arpu_6
+2020-10-28 20:00:17,010 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: arpu_7
+2020-10-28 20:00:27,560 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: avg_revenue_6_7
+2020-10-28 20:04:38,015 	 [INFO | eda_bivariate.py:28] > Bivariate categorical plots
+2020-10-28 20:04:38,020 	 [INFO | eda_bivariate.py:35] > Bivariate analysis for num column: churn and cat column loc_ic_mou_6
+2020-10-28 20:04:38,723 	 [INFO | eda_bivariate.py:35] > Bivariate analysis for num column: churn and cat column loc_ic_mou_7
+2020-10-28 20:04:39,381 	 [INFO | eda_bivariate.py:35] > Bivariate analysis for num column: churn and cat column std_ic_mou_6
+2020-10-28 20:04:40,032 	 [INFO | eda_bivariate.py:35] > Bivariate analysis for num column: churn and cat column std_ic_mou_7
+2020-10-28 20:04:40,716 	 [INFO | eda_bivariate.py:35] > Bivariate analysis for num column: churn and cat column roam_ic_mou_6
+2020-10-28 20:04:41,370 	 [INFO | eda_bivariate.py:35] > Bivariate analysis for num column: churn and cat column roam_og_mou_6
+2020-10-28 20:08:03,372 	 [INFO | data_reader.py:8] > importing data from telecom_churn_data.csv
+2020-10-28 20:08:09,063 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-28 20:08:32,761 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-28 20:08:32,765 	 [INFO | data_prepare.py:18] > ['onnet_67', 'onnet_8', 'onnet_6', 'onnet_7', 'offnet_67', 'offnet_8', 'offnet_6', 'offnet_7']
+2020-10-28 20:08:33,539 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-28 20:08:33,542 	 [INFO | data_prepare.py:18] > ['night_pck_user_6', 'night_pck_user_7', 'night_pck_user_8', 'fb_user_6', 'fb_user_7', 'fb_user_8']
+2020-10-28 20:08:35,661 	 [INFO | eda_univariate.py:45] > univariate categorical plots
+2020-10-28 20:08:35,668 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_onnet_7
+2020-10-28 20:08:36,304 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_onnet_8
+2020-10-28 20:08:36,914 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_onnet_67
+2020-10-28 20:08:37,515 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_offnet_67
+2020-10-28 20:08:38,131 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_offnet_7
+2020-10-28 20:08:38,743 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_offnet_8
+2020-10-28 20:08:41,649 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: total_calls_6
+2020-10-28 20:08:44,562 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: total_calls_7
+2020-10-28 20:08:47,359 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: total_calls_8
+2020-10-28 20:08:50,737 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: arpu_6
+2020-10-28 20:08:57,831 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: arpu_7
+2020-10-28 20:09:07,225 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: avg_revenue_6_7
+2020-10-28 20:10:37,346 	 [INFO | eda_bivariate.py:28] > Bivariate categorical plots
+2020-10-28 20:10:37,356 	 [INFO | eda_bivariate.py:35] > Bivariate analysis for num column: churn and cat column loc_ic_mou_6
+2020-10-28 20:10:38,059 	 [INFO | eda_bivariate.py:35] > Bivariate analysis for num column: churn and cat column loc_ic_mou_7
+2020-10-28 20:10:38,762 	 [INFO | eda_bivariate.py:35] > Bivariate analysis for num column: churn and cat column std_ic_mou_6
+2020-10-28 20:10:39,448 	 [INFO | eda_bivariate.py:35] > Bivariate analysis for num column: churn and cat column std_ic_mou_7
+2020-10-28 20:10:40,129 	 [INFO | eda_bivariate.py:35] > Bivariate analysis for num column: churn and cat column roam_ic_mou_6
+2020-10-28 20:10:40,812 	 [INFO | eda_bivariate.py:35] > Bivariate analysis for num column: churn and cat column roam_og_mou_6
+2020-10-28 21:18:04,241 	 [INFO | model_trainTestSplit.py:20] > Train Test Split Success
+2020-10-28 21:20:44,956 	 [INFO | data_reader.py:8] > importing data from telecom_churn_data.csv
+2020-10-28 21:20:50,609 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-28 21:21:14,335 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-28 21:21:14,339 	 [INFO | data_prepare.py:18] > ['onnet_67', 'onnet_8', 'onnet_6', 'onnet_7', 'offnet_67', 'offnet_8', 'offnet_6', 'offnet_7']
+2020-10-28 21:21:15,110 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-28 21:21:15,116 	 [INFO | data_prepare.py:18] > ['night_pck_user_6', 'night_pck_user_7', 'night_pck_user_8', 'fb_user_6', 'fb_user_7', 'fb_user_8']
+2020-10-28 21:21:21,950 	 [INFO | eda_univariate.py:45] > univariate categorical plots
+2020-10-28 21:21:21,956 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_onnet_7
+2020-10-28 21:21:22,571 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_onnet_8
+2020-10-28 21:21:23,178 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_onnet_67
+2020-10-28 21:21:23,785 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_offnet_67
+2020-10-28 21:21:24,396 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_offnet_7
+2020-10-28 21:21:25,025 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_offnet_8
+2020-10-28 21:21:28,052 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: total_calls_6
+2020-10-28 21:21:31,288 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: total_calls_7
+2020-10-28 21:21:34,314 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: total_calls_8
+2020-10-28 21:21:38,515 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: arpu_6
+2020-10-28 21:21:45,337 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: arpu_7
+2020-10-28 21:21:54,272 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: avg_revenue_6_7
+2020-10-28 21:23:21,167 	 [INFO | eda_bivariate.py:28] > Bivariate categorical plots
+2020-10-28 21:23:21,173 	 [INFO | eda_bivariate.py:35] > Bivariate analysis for num column: churn and cat column loc_ic_mou_6
+2020-10-28 21:23:21,863 	 [INFO | eda_bivariate.py:35] > Bivariate analysis for num column: churn and cat column loc_ic_mou_7
+2020-10-28 21:23:22,549 	 [INFO | eda_bivariate.py:35] > Bivariate analysis for num column: churn and cat column std_ic_mou_6
+2020-10-28 21:23:23,229 	 [INFO | eda_bivariate.py:35] > Bivariate analysis for num column: churn and cat column std_ic_mou_7
+2020-10-28 21:23:23,910 	 [INFO | eda_bivariate.py:35] > Bivariate analysis for num column: churn and cat column roam_ic_mou_6
+2020-10-28 21:23:24,592 	 [INFO | eda_bivariate.py:35] > Bivariate analysis for num column: churn and cat column roam_og_mou_6
+2020-10-28 21:23:41,959 	 [INFO | model_trainTestSplit.py:20] > Train Test Split Success
+2020-10-28 22:22:48,095 	 [INFO | data_reader.py:8] > importing data from telecom_churn_data.csv
+2020-10-28 22:22:53,535 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-28 22:23:14,694 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-28 22:23:14,696 	 [INFO | data_prepare.py:18] > ['onnet_67', 'onnet_8', 'onnet_6', 'onnet_7', 'offnet_67', 'offnet_8', 'offnet_6', 'offnet_7']
+2020-10-28 22:23:15,492 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-28 22:23:15,498 	 [INFO | data_prepare.py:18] > ['night_pck_user_6', 'night_pck_user_7', 'night_pck_user_8', 'fb_user_6', 'fb_user_7', 'fb_user_8']
+2020-10-28 22:23:21,650 	 [INFO | eda_univariate.py:45] > univariate categorical plots
+2020-10-28 22:23:21,658 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_onnet_7
+2020-10-28 22:23:22,370 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_onnet_8
+2020-10-28 22:23:23,000 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_onnet_67
+2020-10-28 22:23:23,625 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_offnet_67
+2020-10-28 22:23:24,237 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_offnet_7
+2020-10-28 22:23:24,860 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_offnet_8
+2020-10-28 22:23:27,695 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: total_calls_6
+2020-10-28 22:23:30,421 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: total_calls_7
+2020-10-28 22:23:32,992 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: total_calls_8
+2020-10-28 22:23:36,179 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: arpu_6
+2020-10-28 22:23:43,012 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: arpu_7
+2020-10-28 22:23:52,060 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: avg_revenue_6_7
+2020-10-28 22:25:20,692 	 [INFO | eda_bivariate.py:28] > Bivariate categorical plots
+2020-10-28 22:25:20,698 	 [INFO | eda_bivariate.py:35] > Bivariate analysis for num column: churn and cat column loc_ic_mou_6
+2020-10-28 22:25:21,411 	 [INFO | eda_bivariate.py:35] > Bivariate analysis for num column: churn and cat column loc_ic_mou_7
+2020-10-28 22:25:22,107 	 [INFO | eda_bivariate.py:35] > Bivariate analysis for num column: churn and cat column std_ic_mou_6
+2020-10-28 22:25:22,787 	 [INFO | eda_bivariate.py:35] > Bivariate analysis for num column: churn and cat column std_ic_mou_7
+2020-10-28 22:25:23,477 	 [INFO | eda_bivariate.py:35] > Bivariate analysis for num column: churn and cat column roam_ic_mou_6
+2020-10-28 22:25:24,169 	 [INFO | eda_bivariate.py:35] > Bivariate analysis for num column: churn and cat column roam_og_mou_6
+2020-10-28 22:25:43,953 	 [INFO | model_trainTestSplit.py:20] > Train Test Split Success
+2020-10-28 22:35:10,723 	 [INFO | model_serializer.py:21] > model serializer started
+2020-10-28 22:35:10,838 	 [INFO | model_serializer.py:25] > model serializer completed successfully
+2020-10-28 22:35:10,923 	 [INFO | model_serializer.py:40] > model deserializer started
+2020-10-28 22:35:10,970 	 [INFO | model_serializer.py:44] > model deserializer completed successfully
+2020-10-28 23:04:34,106 	 [INFO | data_reader.py:8] > importing data from telecom_churn_data.csv
+2020-10-28 23:04:39,528 	 [DEBUG | data_reader.py:14] > file import success
+2020-10-28 23:05:00,950 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-28 23:05:00,952 	 [INFO | data_prepare.py:18] > ['onnet_67', 'onnet_8', 'onnet_6', 'onnet_7', 'offnet_67', 'offnet_8', 'offnet_6', 'offnet_7']
+2020-10-28 23:05:01,881 	 [INFO | data_prepare.py:17] > dummy vars creation for cols: 
+2020-10-28 23:05:01,884 	 [INFO | data_prepare.py:18] > ['night_pck_user_6', 'night_pck_user_7', 'night_pck_user_8', 'fb_user_6', 'fb_user_7', 'fb_user_8']
+2020-10-28 23:05:05,239 	 [INFO | eda_univariate.py:45] > univariate categorical plots
+2020-10-28 23:05:05,269 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_onnet_7
+2020-10-28 23:05:06,012 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_onnet_8
+2020-10-28 23:05:06,631 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_onnet_67
+2020-10-28 23:05:07,244 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_offnet_67
+2020-10-28 23:05:07,861 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_offnet_7
+2020-10-28 23:05:08,479 	 [INFO | eda_univariate.py:51] > Univariate analysis for columns: Average_offnet_8
+2020-10-28 23:05:11,302 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: total_calls_6
+2020-10-28 23:05:14,131 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: total_calls_7
+2020-10-28 23:05:16,734 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: total_calls_8
+2020-10-28 23:05:19,979 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: arpu_6
+2020-10-28 23:05:26,637 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: arpu_7
+2020-10-28 23:05:35,509 	 [INFO | eda_univariate.py:37] > Univariate analysis for columns: avg_revenue_6_7
+2020-10-28 23:07:03,005 	 [INFO | eda_bivariate.py:28] > Bivariate categorical plots
+2020-10-28 23:07:03,012 	 [INFO | eda_bivariate.py:35] > Bivariate analysis for num column: churn and cat column loc_ic_mou_6
+2020-10-28 23:07:03,715 	 [INFO | eda_bivariate.py:35] > Bivariate analysis for num column: churn and cat column loc_ic_mou_7
+2020-10-28 23:07:04,426 	 [INFO | eda_bivariate.py:35] > Bivariate analysis for num column: churn and cat column std_ic_mou_6
+2020-10-28 23:07:05,110 	 [INFO | eda_bivariate.py:35] > Bivariate analysis for num column: churn and cat column std_ic_mou_7
+2020-10-28 23:07:05,800 	 [INFO | eda_bivariate.py:35] > Bivariate analysis for num column: churn and cat column roam_ic_mou_6
+2020-10-28 23:07:06,489 	 [INFO | eda_bivariate.py:35] > Bivariate analysis for num column: churn and cat column roam_og_mou_6
+2020-10-28 23:09:55,031 	 [INFO | model_trainTestSplit.py:20] > Train Test Split Success
+2020-10-28 23:20:21,010 	 [INFO | model_serializer.py:21] > model serializer started
+2020-10-28 23:20:21,015 	 [INFO | model_serializer.py:25] > model serializer completed successfully
+2020-10-28 23:20:21,027 	 [INFO | model_serializer.py:40] > model deserializer started
+2020-10-28 23:20:21,030 	 [INFO | model_serializer.py:44] > model deserializer completed successfully

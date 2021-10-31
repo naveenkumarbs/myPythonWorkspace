@@ -1,0 +1,14 @@
+2020-10-28 09:24:56,071 	 [INFO | data_read.py:7] > Reading raw data
+2020-10-28 09:24:56,146 	 [INFO | data_read.py:11] > Reading raw data completed successfully
+2020-10-28 10:09:10,163 	 [INFO | model_serializer.py:11] > model serializer started
+2020-10-28 10:09:10,170 	 [INFO | model_serializer.py:15] > model serializer completed successfully
+2020-10-28 10:09:10,184 	 [INFO | model_serializer.py:20] > model deserializer started
+2020-10-28 10:09:10,202 	 [INFO | model_serializer.py:24] > model deserializer completed successfully
+2020-10-28 14:53:09,049 	 [INFO | data_read.py:7] > Reading raw data
+2020-10-28 14:53:09,142 	 [INFO | data_read.py:11] > Reading raw data completed successfully
+2020-10-28 14:53:58,018 	 [INFO | data_read.py:7] > Reading raw data
+2020-10-28 14:53:58,111 	 [INFO | data_read.py:11] > Reading raw data completed successfully
+2020-10-28 15:36:37,940 	 [INFO | model_serializer.py:11] > model serializer started
+2020-10-28 15:36:37,986 	 [INFO | model_serializer.py:15] > model serializer completed successfully
+2020-10-28 15:36:38,084 	 [INFO | model_serializer.py:20] > model deserializer started
+2020-10-28 15:36:38,094 	 [INFO | model_serializer.py:24] > model deserializer completed successfully

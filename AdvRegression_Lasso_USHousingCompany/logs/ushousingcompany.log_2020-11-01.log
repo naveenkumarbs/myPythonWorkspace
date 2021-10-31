@@ -1,0 +1,6 @@
+2020-11-01 18:51:12,023 	 [INFO | data_read.py:7] > Reading raw data
+2020-11-01 18:51:12,157 	 [INFO | data_read.py:11] > Reading raw data completed successfully
+2020-11-01 19:30:51,269 	 [INFO | model_serializer.py:11] > model serializer started
+2020-11-01 19:30:51,289 	 [INFO | model_serializer.py:15] > model serializer completed successfully
+2020-11-01 19:30:51,425 	 [INFO | model_serializer.py:20] > model deserializer started
+2020-11-01 19:30:51,434 	 [INFO | model_serializer.py:24] > model deserializer completed successfully

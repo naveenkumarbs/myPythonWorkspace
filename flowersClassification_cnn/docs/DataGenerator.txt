@@ -1,0 +1,15 @@
+Let's now set up the data generator. The code below sets up a custom data generator which is slightly different than the one that comes with the keras API. The reason to use a custom generator is to be able to modify it according to the problem at hand (customizability).
+
+We won't be going through the entire code step-by-step in the lectures, though the code is explained below.
+
+To start with, we have the training data stored in  𝑛  directories (if there are  𝑛  classes). For a given batch size, we want to generate batches of data points and feed them to the model.
+
+The first for loop 'globs' through each of the classes (directories). For each class, it stores the path of each image in the list paths. In training mode, it subsets paths to contain the first 80% images; in validation mode it subsets the last 20%. In the special case of an ablation experiment, it simply subsets the first ablation images of each class.
+
+We store the paths of all the images (of all classes) in a combined list self.list_IDs. The dictionary self.labels contains the labels (as key:value pairs of path: class_number (0/1)).
+
+After the loop, we call the method on_epoch_end(), which creates an array self.indexes of length self.list_IDs and shuffles them (to shuffle all the data points at the end of each epoch).
+
+The _getitem_ method uses the (shuffled) array self.indexes to select a batch_size number of entries (paths) from the path list self.list_IDs.
+
+Finally, the method __data_generation returns the batch of images as the pair X, y where X is of shape (batch_size, height, width, channels) and y is of shape (batch size, ). Note that __data_generation also does some preprocessing - it normalises the images (divides by 255) and crops the center 100 x 100 portion of the image. Thus, each image has the shape (100, 100, num_channels). If any dimension (height or width) of an image less than 100 pixels, that image is deleted.
